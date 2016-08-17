@@ -1,19 +1,16 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 tags: about
+id: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Digital Scholarship at Swarthmore College Libraries.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+This site proudly based on the following wonderful open-source projects:
 
-Thanks to the following:
-
+* [pixyll](https://github.com/johnotander/pixyll)
 * [BASSCSS](http://basscss.com)
 * [Jekyll](http://jekyllrb.com)
 * [Refills](http://refills.bourbon.io/)

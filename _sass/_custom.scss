@@ -1,0 +1,37 @@
+div#services a {
+  display: inline-block;
+  margin-right: 1em;
+  color: $red;
+}
+
+header {
+    z-index: 9;
+}
+
+a.site-title h1{
+  font-family: "Avenir";
+  font-size: 6rem;
+  color: $red;
+}
+
+.panel {
+    height: 100vw;
+}
+
+.panel#definition h3 {
+    margin-top: 20rem;
+    color: $dark-gray;
+}
+
+.home #nav-arrow {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    font-size: $h1;
+    color: $red;
+    margin-right: 1rem;
+}
+
+header {
+    border-bottom: 1px solid $red;
+}

@@ -1,10 +1,6 @@
 {% for page in site.pages %}
-    {% if page.tags contains "about" %}
-        <a href="{{ page.url }}">{{ page.title }}</a>
+    {% if page.tags %}
+    <a href="{{ page.url }}">/<h4>{{ page.title }}</h4></a>
     {% endif %}
 {% endfor %}
-{% for page in site.pages %}
-    {% if page.tags contains "contact" %}
-        <a href="{{ page.url }}">{{ page.title }}</a>
-    {% endif %}
-{% endfor %}
+    <a href="http://www.swarthmore.edu/libraries">/<h4>&larrhk;</h4></a>
