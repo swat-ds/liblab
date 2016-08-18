@@ -22,10 +22,10 @@
 		}(document, 'script', 'facebook-jssdk'));</script>
 	{% endif %}
 
-  <div class="site-wrap">
+  <div class="site-wrap {{ page.id }}">
     {% include header.html %}
 
-    <div class="post p2 p-responsive wrap" role="main">
+    <div class="post px2 px-responsive wrap" role="main">
       <div class="measure {{ page.id }}">
         {{ content }}
       </div>
@@ -34,6 +34,10 @@
 
   {% include footer.html %}
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+  {% if page.id == 'home' %}
   <script src="js/main.js"></script>
+  {% endif %}
+
 </body>
 </html>

@@ -3,11 +3,14 @@ layout: default
 id: home
 ---
 
-<a href="" id="nav-arrow">&darr;</a>
+<a href="" id="nav-arrow">&uarr;</a>
 
-<div class="panel" id="definition">
+<div class="panel clearfix" id="definition">
 
-<h3>Digital Scholarship at Swarthmore encompasses a growing range of collaborative projects that, however disparate, share a set of commitments. They range freely across disciplines and across campus resources. They connect campus faculty, students and staff, as well as audiences and communities of practice beyond Swarthmore. They hinge on the critical use of digital networked technologies to engage in and document scholarly inquiry as a dynamic process.</h3>
+<p>Digital Scholarship at Swarthmore encompasses a growing range of collaborative projects that, however disparate, share a set of commitments. They range freely across disciplines and across campus resources. They connect campus faculty, students and staff, as well as audiences and communities of practice beyond Swarthmore. They hinge on the critical use of digital networked technologies to engage in and document scholarly inquiry as a dynamic process.
+<br/><br/>
+Interested? <a class="email" href="mailto:digitalscholarship@swarthmore.edu">.su tcatnoC</a>
+</p>
 
 <div id="services">
     <a href="#consult">

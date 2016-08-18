@@ -1,9 +1,11 @@
 ---
 layout: page
-title: LibLab Fellows
+title: Lib/Lab Fellows
 permalink: /fellows/
 tags: fellows
 ---
+
+<a href="https://goo.gl/forms/suWOiEMsKHI0OB6H2" class="button button-red">Apply for Fall '16</a>
 
 The library is now accepting applications for a brand new, funded program in digital scholarship for the fall semester.
 

@@ -1,26 +1,47 @@
-div#services a {
+#services a {
   display: inline-block;
   margin-right: 1em;
   color: $red;
 }
 
-header {
+header.site-header {
     z-index: 9;
 }
 
-a.site-title h1{
-  font-family: "Avenir";
-  font-size: 6rem;
+a.site-title span{
+  font-size: 2 * $h2;
+  font-weight: 700;
+  letter-spacing: -.1rem;
   color: $red;
+  display: block;
+  margin-left: 0;
 }
 
 .panel {
-    height: 100vw;
+  height: 50vh;
+  border-bottom: 1px solid $red;
+  h2 { padding-top: 5 * $h2; }
 }
 
-.panel#definition h3 {
-    margin-top: 20rem;
+.panel:last-child {
+  border-bottom: none;
+}
+
+.panel#definition {
+
+  height: 100vh;
+
+  p {
+    padding-top: 10 * $h2;
     color: $dark-gray;
+    font-size: $h3;
+  }
+
+  h2 { padding-top: 0; }
+
+  #services {
+    margin-top: 5 * $h2;
+  }
 }
 
 .home #nav-arrow {
@@ -30,8 +51,43 @@ a.site-title h1{
     font-size: $h1;
     color: $red;
     margin-right: 1rem;
+    display: none;
 }
 
-header {
-    border-bottom: 1px solid $red;
+@media screen and (max-width: $viewport-small) {
+  .panel {
+    border-bottom: none;
+    height: 100vh;
+
+    p {
+      font-size: $h3;
+    }
+  }
+
+  .panel#definition {
+    overflow-y: hidden;
+  }
+}
+
+.email {
+  direction:rtl;
+  unicode-bidi:bidi-override;
+}
+
+.page {
+
+  padding-bottom: $h1;
+
+  h3 {
+    margin: $h1 0 $h2 0;
+  }
+}
+
+.post-header {
+  margin: $h1 0 $h2 0;
+}
+
+.button-red {
+  @extend .button-blue;
+  background-color: $red;
 }
