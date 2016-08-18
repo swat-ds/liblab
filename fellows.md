@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Lib/Lab Fellows
+title: <span>Lib</span>/<span>Lab</span> Fellows
 permalink: /fellows/
 tags: fellows
+id: fellows
 ---
 
 <a href="https://goo.gl/forms/suWOiEMsKHI0OB6H2" class="button button-red">Apply for Fall '16</a>

@@ -8,13 +8,26 @@ header.site-header {
     z-index: 9;
 }
 
-a.site-title span{
+header.site-header a.site-title span{
   font-size: 2 * $h2;
   font-weight: 700;
   letter-spacing: -.1rem;
   color: $red;
   display: block;
   margin-left: 0;
+}
+
+header.site-header .site-nav {
+  a span:first-child {
+    font-family: Allegreya;
+    font-style: italic;
+    vertical-align: super;
+    text-transform: lowercase;
+  }
+  a span:last-child {
+    vertical-align: sub;
+    text-transform: lowercase;
+  }
 }
 
 .panel {
@@ -90,4 +103,13 @@ a.site-title span{
 .button-red {
   @extend .button-blue;
   background-color: $red;
+}
+
+#liblab{
+  :first-child{
+    font-family: helvetica;
+  }
+  :last-child{
+
+  }
 }
