@@ -1,14 +1,28 @@
-#services a {
-  display: inline-block;
-  margin-right: 1em;
-  color: $red;
+#services {
+    padding: 0;
+  li{
+    display: inline-block;
+    margin-right: 1em;
+    color: $red;
+  }
+  li:before {
+    content:"";
+  }
+  a:link {
+    text-decoration: underline;
+    color: $red;
+  }
+  a:hover {
+    text-decoration: none;
+    color: $dark-gray;
+  }
 }
 
 header.site-header {
     z-index: 9;
 }
 
-header.site-header a.site-title span{
+header.site-header a.site-title {
   font-size: 2 * $h2;
   font-weight: 700;
   letter-spacing: -.1rem;
@@ -18,21 +32,42 @@ header.site-header a.site-title span{
 }
 
 header.site-header .site-nav {
+
+  a:hover{
+    border-bottom: none;
+    background-color: $red;
+    opacity: .8;
+
+    h4, h2 {
+      color: #fff; text-shadow: none;
+    }
+  }
+
   a span:first-child {
     font-family: Allegreya;
     font-style: italic;
     vertical-align: super;
     text-transform: lowercase;
+    border: none;
   }
-  a span:last-child {
+
+  a span:nth-child(2) {
+    display: inline-block;
+    font-size: $h2 * 1.2;
+    transform: rotate(7deg);
+    vertical-align: sub;
+    margin: 0 -.1rem;
+  }
+
+  a span:nth-child(3) {
     vertical-align: sub;
     text-transform: lowercase;
   }
 }
 
 .panel {
-  height: 50vh;
-  border-bottom: 1px solid $red;
+  // height: 50vh;
+  // border-bottom: 1px solid $red;
   h2 { padding-top: 5 * $h2; }
 }
 
@@ -43,18 +78,18 @@ header.site-header .site-nav {
 .panel#definition {
 
   height: 100vh;
-
-  p {
-    padding-top: 10 * $h2;
-    color: $dark-gray;
-    font-size: $h3;
-  }
+  padding-top: 7 * $h2;
 
   h2 { padding-top: 0; }
 
   #services {
-    margin-top: 5 * $h2;
+    margin-top: 3 * $h2;
   }
+}
+
+.emphasis {
+  color: $dark-gray;
+  font-size: $h3;
 }
 
 .home #nav-arrow {
@@ -68,6 +103,7 @@ header.site-header .site-nav {
 }
 
 @media screen and (max-width: $viewport-small) {
+
   .panel {
     border-bottom: none;
     height: 100vh;
@@ -78,7 +114,11 @@ header.site-header .site-nav {
   }
 
   .panel#definition {
+
     overflow-y: hidden;
+    p {
+      padding-top: 10 * $h2;
+    }
   }
 }
 
@@ -94,6 +134,25 @@ header.site-header .site-nav {
   h3 {
     margin: $h1 0 $h2 0;
   }
+
+  p {
+      color: $dark-gray;
+  font-size: $h3;
+  }
+
+  ul {
+    list-style-type: none;
+    padding-left: $h3 / 2;
+  }
+
+  li {
+    margin-bottom: $h3 / 2;
+  }
+
+  li:before {
+    content: "/  ";
+    font-weight: 600;
+  }
 }
 
 .post-header {
@@ -105,11 +164,6 @@ header.site-header .site-nav {
   background-color: $red;
 }
 
-#liblab{
-  :first-child{
-    font-family: helvetica;
-  }
-  :last-child{
-
-  }
+.button-red:hover {
+  border: 1px solid $red;
 }

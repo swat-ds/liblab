@@ -17,10 +17,6 @@ $(function(){
 
     var headHeight = $('header').height();
     var panelHeight = $('.panel').height();
-    var titleSize = $('.site-title span')
-                        .css('font-size','6rem')
-                        .css('font-size').slice(0,-2);
-
 
     $('#services a').on('click', function(e){
         var currPanel = e.target.innerHTML;
@@ -38,7 +34,13 @@ $(function(){
 
     if ($(window).width() > 900)
     {
+
+    var titleSize = $('.site-title span')
+                .css('font-size','6rem')
+                .css('font-size').slice(0,-2);
+
     $(document).on('scroll', function(d){
+
         var currTop = $(this).scrollTop();
         var newTitleSize = (currTop > headHeight) ?
             titleSize / 2 : titleSize;
