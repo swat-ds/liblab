@@ -225,3 +225,4 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 ## Post-receive hook
 
 - added post-receive hook snippet to aws remote repository
+- added deploy remote `ds-aws`
