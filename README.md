@@ -226,4 +226,5 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 
 - added post-receive hook snippet to aws remote repository
 - added deploy remote `ds-aws`
-- keep trying to make it happen!
+- another edit
+
