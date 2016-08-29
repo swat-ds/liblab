@@ -234,3 +234,5 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 - added post-receive hook snippet to aws remote repository
 - added deploy remote `ds-aws`
 - must make the post-receive script executable `chmod +x post-receive`
+- needed to manually install gem `io-console`
+
