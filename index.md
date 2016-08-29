@@ -7,7 +7,7 @@ id: home
 
 <div class="panel" id="definition">
 
-<p>Digital Scholarship at Swarthmore encompasses a growing range of collaborative projects that, however disparate, share a set of commitments. They range freely across disciplines and across campus resources. They connect faculty, students and staff, as well as audiences and communities of practice beyond Swarthmore. They hinge on the critical use of digital networked technologies to engage in and document scholarly inquiry as a dynamic process.
+<p>Digital Scholarship at Swarthmore encompasses a growing range of collaborative projects that share a set of basic commitments. To range freely across disciplines and across campus resources. To connect faculty, students and staff, as well as audiences and communities of practice beyond Swarthmore. To make critical use of digital networked technologies to engage and document scholarship as a process.
 <br/><br/>
 Interested? <a class="email" href="mailto:digitalscholarship@swarthmore.edu">.su tcatnoC</a>
 </p>
