@@ -1,12 +1,20 @@
-.home .site-header {
-    position: fixed;
-}
-
 .site-header {
   padding-top: $space-1;
   padding-bottom: $space-2;
-  background-color: rgba(255,255,255,.5);
+  background: rgba(255,255,255,.5);
+  background: -webkit-linear-gradient(rgba(250,250,250,1),
+    rgba(250,250,250,.9),rgba(250,250,250,0));
+  background: -moz-linear-gradient(rgba(250,250,250,1),
+    rgba(250,250,250,.9),rgba(250,250,250,0));
+  background: -o-linear-gradient(rgba(250,250,250,1),
+    rgba(250,250,250,.9),rgba(250,250,250,0));
+  background: linear-gradient(rgba(250,250,250,1),
+    rgba(250,250,250,.9),rgba(250,250,250,0));
   width: 100%;
+}
+
+@media screen and (min-width: $viewport-small) {
+  .site-header { position: fixed; }
 }
 
 .site-header a {
