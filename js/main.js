@@ -32,25 +32,15 @@ $(function(){
 
     });
 
-    if ($(window).width() > 900)
-    {
-
-    var titleSize = $('.site-title span')
-                .css('font-size','6rem')
-                .css('font-size').slice(0,-2);
 
     $(document).on('scroll', function(d){
 
         var currTop = $(this).scrollTop();
-        var newTitleSize = (currTop > headHeight) ?
-            titleSize / 2 : titleSize;
-        var currTitleSize = $('.site-header span').css('fontSize').slice(0,-2);
 
-        if ( currTitleSize != newTitleSize ){
-            $('.site-title span').stop().animate({
-
-                'font-size': newTitleSize
-            }, { duration: 300 });
+        if ( currTop > 70 ){
+            $('.site-title span').addClass('little');
+        } else {
+            $('.site-title span').removeClass('little')
         }
 
         if (currTop > panelHeight) {
@@ -60,5 +50,4 @@ $(function(){
         }
 
     });
-    }
 });

@@ -3,12 +3,24 @@ header.site-header {
 }
 
 header.site-header a.site-title {
-  font-size: 2 * $h2;
   font-weight: 700;
   letter-spacing: -.1rem;
   color: $red;
   display: block;
   margin-left: 0;
+  font-size: 2 * $h2;
+
+  & span#home { 
+      font-size: 4 * $h2;  
+      -webkit-transition: font-size .3s;
+      -moz-transition: font-size .3s;
+      -o-transition: font-size .3s;
+      transition: font-size .3s;
+  }
+
+  @media screen and (min-width: $viewport-medium) {
+    & span#home.little { font-size: 2 * $h2; }
+  }
 }
 
 header.site-header .site-nav {
