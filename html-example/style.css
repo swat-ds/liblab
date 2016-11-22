@@ -30,8 +30,8 @@ p {
 
 @media screen and (max-width: 768px) {
      .column {
-        width: 100vw;
-        border: 1px dotted #f00;
+        width: auto;
+        border: 5px dotted #0f0;
      }
  }
 
