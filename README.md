@@ -36,10 +36,6 @@ $ bundle install
 It's important to also check your version of Jekyll since this project uses Native Sass which
 is [only supported by 2.0+](http://jekyllrb.com/news/2014/05/06/jekyll-turns-2-0-0/).
 
-### Fork, then clone
-
-Fork the repo, and then clone it so you've got the code locally.
-
 ### Modify the `_config.yml`
 
 The `_config.yml` located in the root of the Pixyll directory contains all of the configuration details
