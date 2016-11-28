@@ -173,14 +173,6 @@ If `git remote -v` doesn't have an upstream listed, you can do the following to 
 git remote add upstream https://github.com/johnotander/pixyll.git
 ```
 
-#### Pull in the latest changes
-
-```
-git pull upstream master
-```
-
-There may be merge conflicts, so be sure to fix the files that git lists if they occur. That's it!
-
 ## Thanks to the following
 
 * [BASSCSS](http://basscss.com)
