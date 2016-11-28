@@ -157,11 +157,6 @@ If search engine optimization is your thing, you can also set up `meta_descripti
 
 And lastly - if you happen to write in language other than English be sure to change `og_locale` in `_config.yml` to reflect it.
 
-### Enjoy
-
-I hope you enjoy using Pixyll. If you encounter any issues, please feel free to let me know by creating an [issue](https://github.com/johnotander/pixyll/issues). I'd love to help.
-
-
 ## Thanks to the following
 
 * [BASSCSS](http://basscss.com)
