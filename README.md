@@ -7,9 +7,7 @@ modified for ds.swarthmore.edu website
 
 ---
 
-[pixyll.com](http://www.pixyll.com)
-
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
+[pixyll.com](http://www.pixyll.com) by [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
 
 ## Getting Started
