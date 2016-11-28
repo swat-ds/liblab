@@ -171,3 +171,5 @@ And lastly - if you happen to write in language other than English be sure to ch
 - added deploy remote `ds-aws`
 - must make the post-receive script executable `chmod +x post-receive`
 - (still necessary?) needed to manually install gem `io-console` in order for `bundler` to work correctly
+- 
+poo
