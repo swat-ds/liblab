@@ -2,7 +2,7 @@
 
 ---
 
-modified for ds.swarthmore.edu website
+modified for ds.swarthmore.edu
 @bulbil 2016-08-29
 
 ---
