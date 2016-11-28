@@ -167,7 +167,7 @@ And lastly - if you happen to write in language other than English be sure to ch
 
 ## Post-receive hook
 
-- added post-receive hook snippet to aws remote repository
+- added post-receive hook to aws remote repository (`.git/hooks/`)
 - added deploy remote `ds-aws`
 - must make the post-receive script executable `chmod +x post-receive`
 - (still necessary?) needed to manually install gem `io-console` in order for `bundler` to work correctly
