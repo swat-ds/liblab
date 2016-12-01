@@ -2,27 +2,17 @@
 
 ---
 
-modified for ds.swarthmore.edu website
+modified for ds.swarthmore.edu
 @bulbil 2016-08-29
 
 ---
 
-[pixyll.com](http://www.pixyll.com)
-
-![Pixyll screenshot](https://cloud.githubusercontent.com/assets/1424573/3847467/134aa236-1e66-11e4-8421-4e8c122118dc.png)
-
-Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
-
-It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
-
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
+[pixyll.com](http://www.pixyll.com) by [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
-
-中文版 <https://github.com/ee0703/pixyll-zh-cn>.
 
 ## Getting Started
 
-If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by [Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
+[Smashing Magazine Tutorial](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
 
 ```
 $ git clone git@github.com:johnotander/pixyll.git
@@ -55,16 +45,6 @@ markdown: kramdown
 permalink: pretty
 paginate: 3
 ```
-
-### Jekyll Serve
-
-Then, start the Jekyll Server. I always like to give the `--watch` option so it updates the generated HTML when I make changes.
-
-```
-$ jekyll serve --watch
-```
-
-Now you can navigate to `localhost:4000` in your browser to see the site.
 
 ### Using Github Pages
 
@@ -177,30 +157,6 @@ If search engine optimization is your thing, you can also set up `meta_descripti
 
 And lastly - if you happen to write in language other than English be sure to change `og_locale` in `_config.yml` to reflect it.
 
-### Enjoy
-
-I hope you enjoy using Pixyll. If you encounter any issues, please feel free to let me know by creating an [issue](https://github.com/johnotander/pixyll/issues). I'd love to help.
-
-## Upgrading Pixyll
-
-Pixyll is always being improved by its users, so sometimes one may need to upgrade.
-
-#### Ensure there's an upstream remote
-
-If `git remote -v` doesn't have an upstream listed, you can do the following to add it:
-
-```
-git remote add upstream https://github.com/johnotander/pixyll.git
-```
-
-#### Pull in the latest changes
-
-```
-git pull upstream master
-```
-
-There may be merge conflicts, so be sure to fix the files that git lists if they occur. That's it!
-
 ## Thanks to the following
 
 * [BASSCSS](http://basscss.com)
@@ -209,18 +165,12 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 * [Solarized](http://ethanschoonover.com/solarized)
 * [Animate.css](http://daneden.github.io/animate.css/)
 
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
-
 ## Post-receive hook
 
-- added post-receive hook snippet to aws remote repository
+- added post-receive hook to aws remote repository (`.git/hooks/`)
 - added deploy remote `ds-aws`
 - must make the post-receive script executable `chmod +x post-receive`
-- needed to manually install gem `io-console` in order for `bundler` to work correctly
+- (still necessary?) needed to manually install gem `io-console` in order for `bundler` to work correctly
 
+
+adadfadfasdfsfafd
