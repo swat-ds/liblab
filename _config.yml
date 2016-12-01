@@ -38,6 +38,7 @@ prose:
       - name: "published"
         field:
           element: "checkbox"
+          label: "Publish"
           value: false             
 
 # Google services
