@@ -8,10 +8,8 @@ tags: blog
 {% assign posts_count = (paginator.posts | size) %}
 
 <div class="home">
-    {% if page.tags == 'blog' %}
-    <h1 class='center'>{{ site.text.index.coming_soon }}</h3>
 
-  {% elsif posts_count > 0 %}
+  {% if posts_count > 0 %}
     <div class="posts">
       {% for post in paginator.posts %}
         <div class="post py3">
