@@ -7,6 +7,39 @@ baseurl:     ""
 url:         "/"
 date_format: "%b %-d, %Y"
 
+# Prose settings
+prose:
+  rooturl: '_posts'
+  media: 'media'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add categories"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Left"
+              value: "left"
+            - name: "Right"
+              value: "Right"
+      - name: "date"
+        field:
+          element: "hidden"
+          value: CURRENT_DATETIME
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "published"
+        field:
+          element: "checkbox"
+          value: false             
+
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
