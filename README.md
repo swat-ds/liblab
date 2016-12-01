@@ -173,4 +173,3 @@ And lastly - if you happen to write in language other than English be sure to ch
 - (still necessary?) needed to manually install gem `io-console` in order for `bundler` to work correctly
 
 
-adadfadfasdfsfafd
