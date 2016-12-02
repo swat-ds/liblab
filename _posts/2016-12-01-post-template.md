@@ -12,8 +12,6 @@ published: false
 
 ![mccabe](https://avatars0.githubusercontent.com/u/23225106?v=3&s=200)
 
-this change
-
 **inline link**
 
 [Swarthmore Libraries](http://www.swarthmore.edu/libraries)
