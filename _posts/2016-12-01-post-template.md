@@ -1,16 +1,16 @@
 ---
-layout:     post
-title:      ds.swarthmore.post template
-date:       2016-12-01
-summary:    This is a template for adding posts to ds.swarthmore.edu/blog
-categories: jekyll
+date: 2016-12-01T00:00:00.000Z
+layout: post
+title: ds.swarthmore.post template
+summary: This is a template for adding posts to ds.swarthmore.edu/blog
+categories:
+  - jekyll
 published: false
 ---
 
 **inline image**
 
 ![mccabe](https://avatars0.githubusercontent.com/u/23225106?v=3&s=200)
-
 
 **inline link**
 
