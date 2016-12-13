@@ -2,10 +2,8 @@
 date: '2016-12-13 16:04 -0500'
 layout: post
 published: true
-title: hazlett's blog post
+title: 'Digital Plants, or, How the Physical is Made Digital '
 ---
-
-## Digital Plants, or, How the Physical is Made Digital #
 
 Hazlett Henderson,
 lib/lab-er of fall 2016
@@ -14,7 +12,7 @@ lib/lab-er of fall 2016
 
 **This semester I participated in a digital humanities project.** I
 
-also grew plants in a garden.
+also grew plants in a garden.  
 
 **At the semester’s end,** I was charged with producing a poster
 
@@ -42,7 +40,7 @@ And, on a related note, two: is our understanding of a plant
 
 predicated on its ability to grow, or to change? The techno-
 
-theorist Lisa Gitelman can help us think about these points.
+theorist Lisa Gitelman can help us think about these points.  
 
 **In a chapter entitled** “Near Print and Beyond Paper: Knowing by
 
@@ -78,7 +76,7 @@ actually a plant. What type of perception, then, does its
 
 pictorial portrayal contribute to? Does seeing a plant as
 
-digital object negate its material being?
+digital object negate its material being?  
 
 **If we return to our PDF analogy,** Gitelman might have some
 
@@ -112,7 +110,7 @@ form or another, it re-nourishes the soil that sustained its
 
 growth. What is achieved by narrowing that process to a single
 
-image?
+image?  
 
 **Here is the question I really want to answer:** what is the ethic
 
