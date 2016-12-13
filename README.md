@@ -1,8 +1,7 @@
 # Digital Scholarship @ Swarthmore
 
 ---
-based on the excellent [pixyll.com](http://www.pixyll.com) by [John Otander](http://johnotander.com) ([@4lpine](https://twitter.com/4lpine)).
-
+based on the excellent [pixyll.com](http://www.pixyll.com) by [John Otander](http://johnotander.com)
 see theme repo for full documentation
 ---
 
