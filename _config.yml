@@ -4,7 +4,7 @@ email:       digitalscholarship@swarthmore.edu
 author:      Nabil Kashyap
 description: "Collaborative digital projects for the Swarthmore community and beyond"
 baseurl:     ""
-url:         "/"
+url:         "http://ds.swathmore.edu"
 date_format: "%b %-d, %Y"
 
 # Prose settings
