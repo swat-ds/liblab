@@ -14,6 +14,7 @@ lib/lab-er of fall 2016
 
 also grew plants in a garden.  
 
+
 **At the semester’s end,** I was charged with producing a poster
 
 about the food system of the U.S., as well as this blog post.
@@ -32,6 +33,7 @@ the pictures of my plants to the poster. Now I find myself
 
 wondering: are those actually my plants? 
 
+
 **I suggest two secondary questions with that first question.** One:
 
 is a plant experienced as a picture of a plant still a plant?
@@ -41,6 +43,8 @@ And, on a related note, two: is our understanding of a plant
 predicated on its ability to grow, or to change? The techno-
 
 theorist Lisa Gitelman can help us think about these points.  
+
+
 
 **In a chapter entitled** “Near Print and Beyond Paper: Knowing by
 
@@ -78,6 +82,8 @@ pictorial portrayal contribute to? Does seeing a plant as
 
 digital object negate its material being?  
 
+
+
 **If we return to our PDF analogy,** Gitelman might have some
 
 answers. She continues on page 115, “Viewed within a PDF-reader
@@ -111,6 +117,8 @@ form or another, it re-nourishes the soil that sustained its
 growth. What is achieved by narrowing that process to a single
 
 image?  
+
+
 
 **Here is the question I really want to answer:** what is the ethic
 
