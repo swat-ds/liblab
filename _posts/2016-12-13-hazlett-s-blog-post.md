@@ -5,7 +5,7 @@ published: true
 title: 'Digital Plants, or, How the Physical is Made Digital '
 ---
 
-Hazlett Henderson,
+By Hazlett Henderson,
 lib/lab-er of fall 2016
 
 -----------------------------
@@ -128,7 +128,7 @@ integration of “computerized” and whatever the world outside of
 
 the computer is, I say no. Sure, the pictures do not correspond
 
-to my plants’ physical reality anymore. But at a not-too- distant
+to my plants’ physical reality anymore. But at a not-too-distant
 
 point in the past, those _were_ actually my plants. As Gitelman
 
