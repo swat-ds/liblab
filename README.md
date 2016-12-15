@@ -20,4 +20,4 @@ see theme repo for full documentation
 - must make the post-receive script executable `chmod +x post-receive`
 - (still necessary?) needed to manually install gem `io-console` in order for `bundler` to work correctly
 
-:clap: :clap: :clap: :clap:
+:clap: :clap: :clap:
