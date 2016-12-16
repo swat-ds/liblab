@@ -1,7 +1,7 @@
 ---
 date: '2016-12-16 12:51 -0500'
 layout: post
-published: false
+published: true
 title: 'Barnchive: A Swarthmore Project'
 ---
 Samantha Herron ‘18 and Hazlett Henderson ‘17 are undertaking a project of great personal and communal import: collecting and forming into an archive materials from the Barn, an infamous off-campus building that houses Swarthmore students. We have yet to discover who first called our home the “Barn”, but we can assure you that it resembles a barn both inside and out.
