@@ -176,6 +176,67 @@ header.site-header .site-nav {
   margin: $h1 0 $h2 0;
 }
 
+.post-footer {
+  text-align: inherit;
+  position: relative;
+  padding-top: 1rem;
+  border-top: 1px solid $dark-gray;
+}
+
+.post-footer p {
+  word-wrap: break-word;
+  padding-left: 120px;
+  min-height: 100px;
+}
+
+.post-footer .avatar {
+  position: absolute;
+  margin: 0;
+  left: 0;
+  border-radius: none;
+
+  img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+  }
+}
+
+.fellows-gallery {
+
+
+}
+
+.fellows-gallery .fellow {
+  
+  height: 200px;
+
+  & .avatar {
+    float: left;
+    display: inline-block;
+    height: 100%;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center top;
+  }
+
+  & .bio {
+    display: inline-block;
+    float: left;
+    width: 75%;
+    height: 100%;
+    margin-left: 1rem;
+
+    @media screen and (max-width: $viewport-medium) { margin-left: 0; }
+
+    & p, & h3 {
+      font-size: 1rem;
+    }
+  }
+
+}
+
 .button-red {
   @extend .button-blue;
   background-color: $red;

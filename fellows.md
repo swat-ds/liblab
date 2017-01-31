@@ -2,28 +2,40 @@
 layout: page
 title: <span>Lib</span><span>/</span><span>Lab</span><span> Fellows</span>
 permalink: /fellows/
-tags: fellows
+tags:
+    - current
 id: fellows
 ---
 
-<a  class="button button-red" href="https://goo.gl/forms/suWOiEMsKHI0OB6H2" target="_blank">Apply for Fall '16</a>
+{% if page.tags contains "apply" %}
 
-Interested in collaborative projects that span disciplinary boundaries, that bring networked technologies to bear on conventional scholarship, that demand a critical consideration of just what we mean by "the digital"?
+{% include apply.md %}
 
-The Libraries, in collaboration with the Center for Innovation and Leadership, are now accepting applications for a brand new program in digital scholarship for the fall semester. Accepted students will receive [level 3 student employment](http://www.swarthmore.edu/student-employment) for one semester to engage in theory and practice of digital scholarship, to collaborate on projects already in the works and to develop their own projects.
+{% endif %}
 
-The program involves a combination of open lab hours and weekly meetings, through which Fellows will gain:
+### 2016
 
-- hands-on experience with web development and design, digital media, text analysis and data visualization
-- through readings and discussions, exposure to current conversations around digital environments from a variety of perspectives
-- experience with project management, design thinking and tools for collaboration
+{% assign fellows = site.data.contributors | where: "role", "fellow" | where: "year", 2016 %}
 
-### How much of a commitment will it be?
+<div class="fellows-gallery">
+{% for fellow in fellows %}
 
-Though participants can anticipate a flexible and accommodating schedule, in order to qualify for funding, Fellows will be expected to contribute an average of 6 hours a week, including discussions and lab meetings. Students can expect to contribute to new project design and implementation, as well as less glamorous tasks (though no less important!) such as documentation and maintenance.
+{% if fellow.image_path %}
+    {% assign image_path = fellow.image_path %}
+{% else %}
+    {% assign image_path = site.owner.image_path %}
+{% endif %}
 
-### Who should apply?
+<div class="fellow">
+<div class="avatar" style="background-image:url({{ image_path | absolute_url }});" alt="{{ author.name }}"></div>
+<div class="bio">
+{% if fellow.bio %}
+{{ fellow.bio | prepend: "<p>" | append: "</p>" }}
+{% else %}
+{{ fellow.name | prepend: "<h3>" | append: "</h3>" }}
+{% endif %}
+</div>
+<div class="clearfix"></div>
+</div>
 
-You! While priority will be given to Sophomores and Juniors, the application is open to all current students, all majors. The program assumes no background in computer science or web development, only a willingness to engage in self-directed learning and problem solving in a semi-structured setting. Students with some computer science but little or no web development experience are also encouraged to apply, and if appropriate, may have the opportunity to pursue advanced topics.
-
-### Questions? <a class="email" href="mailto:digitalscholarship@swarthmore.edu">.su tcatnoC</a>
+{% endfor %}

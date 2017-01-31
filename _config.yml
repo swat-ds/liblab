@@ -7,6 +7,11 @@ baseurl:     ""
 url:         "http://ds.swarthmore.edu"
 date_format: "%b %-d, %Y"
 
+owner:
+  name: ds@swat
+  image_path: media/logo-mccabe-web.png
+
+
 # Prose settings
 prose:
   rooturl: '_posts'
@@ -53,7 +58,7 @@ bing_verification:
 # Optional features
 animated:             false
 show_related_posts:   false
-show_post_footers:    false
+show_post_footers:    true
 show_social_icons:    false
 ajaxify_contact_form: false
 enable_mathjax: false

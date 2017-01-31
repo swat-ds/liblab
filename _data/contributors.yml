@@ -1,0 +1,33 @@
+biney:
+  name: Byron Biney
+  role: fellow
+  year: 2016
+
+elmore:
+  name: Liv Elmore
+  role: fellow
+  year: 2016
+
+han:
+  name: Amy Han
+  role: fellow
+  year: 2016
+
+henderson:
+  name: Hazlett Henderson
+  bio: "Hazlett Henderson ‘17 is a French and Arabic double major at Swarthmore College. She likes reading and composting, and wants to graduate so that she can spend more time doing both."
+  image_path: media/henderson-full.png
+  role: fellow
+  year: 2016
+
+herron:
+  name: Sam Herron
+  role: fellow
+  year: 2016
+
+mundo:
+  name: Jake Mundo
+  bio: "Jake Davis Mundo is a junior at Swarthmore College double majoring in Linguistics and Mathematics. At Swarthmore, Jake is one of the organizers of Peripeteia, a group which plans interdisciplinary events and discussions, and loves playing board games with friends in moments of free time. Jake grew up in New Jersey."
+  image_path: media/mundo.jpg
+  role: fellow
+  year: 2016
