@@ -1,7 +1,9 @@
 biney:
   name: Byron Biney
+  bio: "Byron Biney '19 is currently a completing a special major in Educational Studies and Computer Science, with a minor in Psychology. He's interested in learning how technology can help facilitate meaningful learning experiences in today's current landscape for all students. He would like to explore how current cultural formations and structural issues interact with digital technology."
   role: fellow
   year: 2016
+  image_path: media/byron.jpg
 
 elmore:
   name: Liv Elmore
@@ -27,7 +29,7 @@ herron:
 
 mundo:
   name: Jake Mundo
-  bio: "Jake Davis Mundo is a junior at Swarthmore College double majoring in Linguistics and Mathematics. At Swarthmore, Jake is one of the organizers of Peripeteia, a group which plans interdisciplinary events and discussions, and loves playing board games with friends in moments of free time. Jake grew up in New Jersey."
+  bio: "Jake Davis Mundo '18 is double majoring in Linguistics and Mathematics. At Swarthmore, Jake is one of the organizers of Peripeteia, a group which plans interdisciplinary events and discussions, and loves playing board games with friends in moments of free time. Jake grew up in New Jersey."
   image_path: media/mundo.jpg
   role: fellow
   year: 2016
