@@ -3,7 +3,7 @@ date: '2017-02-13'
 layout: post
 authors:
     - biney
-published: true
+published: false
 title: 'Social Critique and Data Activism in the Digital Humanities'
 ---
 The subject-matter and discussion within the digital humanities (DH) is very democratizing and multifaceted. But it also creates several different questions on how studying DH can generate social critique, activism, or be socially transformative in general. Though given Lib/Lab was my first introduction to DH and the heightened extent of analysis that takes place in the field, I felt a little overwhelmed by just how much complexity there was in discussing and gauging the epistemological value of a printed book as opposed to a digitized pdf document. Even with that discussion, I wondered if that could be used for critique or thought outside of the humanities, outside of the archival, and into other areas. 
