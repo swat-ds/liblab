@@ -1,12 +1,15 @@
-{% if page.author %}
-  {% assign author = site.data.contributors[page.author] %}{% else %}{% assign author = site.owner %}
-{% endif %}
+{% if page.authors %}
 
-<div class="py2 post-footer">
-<div class="avatar">
-    <img src="{{ author.image_path | absolute_url }}" alt="{{ author.name }}" />
-</div>
-{% if author.bio %}
-<p>{{ author.bio }}</p>
+    {% for author in page.authors %}
+
+    {% assign currAuthor = site.data.contributors[author] %}
+
+        <div class="py2 post-footer">
+        <div class="avatar" style="background-image: url({{ currAuthor.image_path | absolute_url }});" alt="{{ currAuthor.name }}"></div>
+            {% if currAuthor.bio %}
+                <p>{{ currAuthor.bio }}</p>
+            {% endif %}
+        </div>
+
+    {% endfor%}
 {% endif %}
-</div>

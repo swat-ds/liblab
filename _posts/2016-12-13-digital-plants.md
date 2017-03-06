@@ -1,7 +1,8 @@
 ---
 date: '2016-12-13 16:04 -0500'
 layout: post
-author: henderson
+authors: 
+    - henderson
 published: true
 title: 'Digital Plants, or, How the Physical is Made Digital '
 ---

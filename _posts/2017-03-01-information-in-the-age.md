@@ -1,11 +1,12 @@
 ---
-date: '2017-01-27'
+date: '2017-03-01'
 layout: post
 authors:
     - mundo
-published: false
+published: true
 title: 'Information in the Age of Information'
 ---
+
 In this so-called Age of Information, what information is really available? And who gets to decide that?    
 
 People often talk as though it's common wisdom that we live in the "Age of Information". But what do we mean by this anyway? What data do we all supposedly have? It's true that information is available at our fingertips in a new way, with our access to search engines on the Internet. If I wanted, I could find the current age of the King of Sweden in less than half a minute (I just did, by the way; he's 70). And I think this is a great thing, and certainly it's part of the Age of Information. But there's a lot more information than that, since there's a lot of information people collect but keep locked up, for privacy reasons. To be clear, I'm not saying those privacy reasons aren't legitimate. I think they're very important. But they bring to light a very crucial fact that there's a big difference between data existing (i.e. having been recorded) and being available.

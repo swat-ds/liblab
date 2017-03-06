@@ -185,6 +185,7 @@ header.site-header .site-nav {
 
 .post-footer p {
   word-wrap: break-word;
+  font-size: $base-font-size * 1.25;
   padding-left: 120px;
   min-height: 100px;
 }
@@ -194,37 +195,36 @@ header.site-header .site-nav {
   margin: 0;
   left: 0;
   border-radius: none;
+  height: 100px;
+  width: 100px;
 
-  img {
-    height: 100px;
-    width: 100px;
-    border-radius: 50%;
-  }
-}
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
 
-.fellows-gallery {
-
-
+  border-radius: 50%;
 }
 
 .fellows-gallery .fellow {
   
-  height: 200px;
+  height: 210px;
+  margin-bottom: 1rem;
 
   & .avatar {
     float: left;
     display: inline-block;
-    height: 100%;
+    height: 200px;
     width: 200px;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: center top;
+    border-radius: 50%;
   }
 
   & .bio {
     display: inline-block;
     float: left;
-    width: 75%;
+    width: 70%;
     height: 100%;
     margin-left: 1rem;
 

@@ -1,7 +1,8 @@
 ---
 date: '2017-02-13'
 layout: post
-author: byron
+authors:
+    - biney
 published: true
 title: 'Social Critique and Data Activism in the Digital Humanities'
 ---

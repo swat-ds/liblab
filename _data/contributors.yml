@@ -7,13 +7,18 @@ biney:
 
 elmore:
   name: Liv Elmore
+  bio:  "Liv Elmore '20, prospective undecided major at Swarthmore College."
   role: fellow
   year: 2016
+  image_path: media/elmore.jpg
+
 
 han:
   name: Amy Han
+  bio: "Amy Han '17 is an engineering and computer science double major. Originally from Washington state, she enjoys hiking, skiing and exploring the outdoors. Amy is excited to be working in New York City after graduation."
   role: fellow
   year: 2016
+  image_path: media/han.jpg
 
 henderson:
   name: Hazlett Henderson

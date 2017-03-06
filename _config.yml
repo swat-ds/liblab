@@ -40,6 +40,12 @@ prose:
         field:
           element: "text"
           label: "title"
+      - name: "authors"
+        field:
+          element: "multiselect"
+          label: "authors"
+          placeholder: "choose or add authors"
+          alterable: true
       - name: "published"
         field:
           element: "checkbox"
