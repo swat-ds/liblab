@@ -29,8 +29,10 @@ henderson:
 
 herron:
   name: Sam Herron
+  bio: "Samantha Herron '18 is a Sociology & Anthropology major. She loves the internet, the library, pop music, and her cat Marv."
   role: fellow
   year: 2016
+  image_path: media/herron.jpg
 
 mundo:
   name: Jake Mundo

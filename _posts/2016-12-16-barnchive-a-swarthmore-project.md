@@ -3,6 +3,7 @@ date: '2016-12-16 12:51 -0500'
 layout: post
 authors:
     - henderson
+    - herron
 published: true
 title: 'Barnchive: A Swarthmore Project'
 ---
