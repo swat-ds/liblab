@@ -154,6 +154,6 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
-  - gemoji
+  - jemoji
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor, html-example]
