@@ -2,7 +2,7 @@
 date: '2017-09-29 15:48 -0400'
 layout: post
 published: false
-title: ''
+title: Forgot the title
 ---
 ## A New Post
 
