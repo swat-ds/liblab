@@ -8,5 +8,5 @@ authors:
 ---
 ## Computers are not Black Boxes
 
-It looks like a black box to me. 
+But this looks like a black box to me 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
