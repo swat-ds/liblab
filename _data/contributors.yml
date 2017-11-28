@@ -40,3 +40,44 @@ mundo:
   image_path: media/mundo.jpg
   role: fellow
   year: 2016
+  
+cheng:
+  name: Yi Fei Cheng
+  bio: "Yi Fei Cheng is a prospective Engineering and Computer Science double major. He is particularly interested in web development, robotics, and animation."
+  image_path: media/yi-fei.JPG
+  role: fellow
+  year: 2017
+  
+debrine:
+  name: Joseph DeBrine
+  bio: "Joseph DeBrine '19 is a senior majoring in Ancient Greek and Linguistics. He was born and raised in Albuquerque, New Mexico and likes reading, running, radios, writing stories, and the letter 'r'."
+  image_path: media/jdb.JPG
+  role: fellow
+  year: 2017
+li:
+  name: Cindy Li
+  bio: "Cindy Li '21, a sophomore studying Computer Science and Educational Studies, has been interested in software engineering and web development for a long time. Her dream is to travel the world, but for now she'll settle for the short rides from Philly to New York. She's also always on the lookout for some good tostadas and pizza."
+  image_path: media/cindy.jpg
+  role: fellow
+  year: 2017
+
+sagal:
+  name: Amal Sagal
+  bio: "Amal Sagal '20 is a junior majoring in Anthropology and Peace and Conflict Studies with interests in applied anthropology, oral history, and reproductive justice. She was born and raised in Virginia and spends her nonexistent free time reading, cooking, photographing, and arguing with her siblings."
+  image_path: media/amal.jpg
+  role: fellow
+  year: 2017
+
+sheikh:
+  name: Samme Sheikh
+  bio: "Samme Sheikh '20 is a junior majoring in Political Science and minoring in Interpretation Theory. Samme is from Portland, Oregon but wants to be adopted by Philadelphia, and he's well on his way toward his goal of knowing more about African politics than that of the United States."
+  image_path: media/samme.jpg
+  role: fellow
+  year: 2017
+
+stern:
+  name: Nathaniel "Ziv" Stern
+  bio: "Ziv Stern is a prospective Linguistics and Classics double major with special interest in morphology, philology, and computational linguistics. He has a lot of ideas for coding projects on Latin and Greek corpora. He has not done enough work on any of these projects. You can generally find him excitedly pouring through an etymological dictionary, probably singing something by Sondheim under his breath."
+  image_path: media/ziv.jpg
+  role: fellow
+  year: 2017

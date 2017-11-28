@@ -14,6 +14,35 @@ id: fellows
 
 {% endif %}
 
+### 2017
+
+{% assign fellows = site.data.contributors | where: "role", "fellow" | where: "year", 2017 %}
+
+<div class="fellows-gallery">
+{% for fellow in fellows %}
+
+{% if fellow.image_path %}
+    {% assign image_path = fellow.image_path %}
+{% else %}
+    {% assign image_path = site.owner.image_path %}
+{% endif %}
+
+<div class="fellow">
+<div class="avatar" style="background-image:url({{ image_path | absolute_url }});" alt="{{ author.name }}"></div>
+<div class="bio">
+{% if fellow.bio %}
+{{ fellow.bio | prepend: "<p>" | append: "</p>" }}
+{% else %}
+{{ fellow.name | prepend: "<h3>" | append: "</h3>" }}
+{% endif %}
+</div>
+<div class="clearfix"></div>
+</div>
+
+{% endfor %}
+
+</div>
+
 ### 2016
 
 {% assign fellows = site.data.contributors | where: "role", "fellow" | where: "year", 2016 %}
@@ -40,3 +69,5 @@ id: fellows
 </div>
 
 {% endfor %}
+
+</div>
