@@ -4,7 +4,6 @@ title: <span>Lib</span><span>/</span><span>Lab</span><span> Fellows</span>
 permalink: /fellows/
 tags:
     - current
-    - apply
 id: fellows
 ---
 
