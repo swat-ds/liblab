@@ -3,7 +3,7 @@ title:       ds@swat
 email:       digitalscholarship@swarthmore.edu
 author:      Nabil Kashyap
 description: "Collaborative digital projects for the Swarthmore community and beyond"
-baseurl:     ""
+baseurl:     "/liblab"
 url:         ""
 date_format: "%b %-d, %Y"
 
