@@ -1,4 +1,5 @@
 ---
+title: 2018 Lib/Lab Fellows Syllabus
 layout: page
 id: home
 ---
