@@ -14,6 +14,7 @@ An introduction to the terrain
 What can things *do*? Considering the perspective of Science and Technology Studies.
 
 - Winner, Langdon. "Do Artifacts Have Politics?" from *The Whale and the Reactor* (1986).
+- Biss, Eula. "Time and Distance Overcome" from *Notes from No Man's Land* (2009).
 
 ## Week 3: The Economy of Attention
 
