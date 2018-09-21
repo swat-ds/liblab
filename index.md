@@ -3,8 +3,6 @@ layout: page
 id: home
 ---
 
-# Lib/Lab Fellows 2018 Syllabus
-
 ## Week 1: Pshhhkkkkkkrrrrkakingkakingkakingtshchchchchchchchcch*ding*ding*ding
 An introduction to the terrain
 
