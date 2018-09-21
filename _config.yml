@@ -151,9 +151,10 @@ paginate:     10
 paginate_path:     "blog/posts/:num"
 sass:
   compressed: true
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - github-pages
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor, html-example]
