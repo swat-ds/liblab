@@ -1,5 +1,7 @@
 # Digital Scholarship @ Swarthmore
 
+Lib/Lab Fellows Curriculum
+
 ---
 based on the excellent [pixyll.com](http://www.pixyll.com) by [John Otander](http://johnotander.com)
 see theme repo for full documentation
