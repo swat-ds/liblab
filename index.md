@@ -15,7 +15,6 @@ What can things *do*? Considering the perspective of Science and Technology Stud
 - Winner, Langdon. "Do Artifacts Have Politics?" from *The Whale and the Reactor* (1986).
 - Biss, Eula. "Time and Distance Overcome" from *Notes from No Man's Land* (2009).
 
-### Resource
 - [The Programing Historian: Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
 
 ## Week 3: The Economy of Attention
