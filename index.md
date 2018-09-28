@@ -8,6 +8,7 @@ id: home
 An introduction to the terrain
 
 - [Madrigal, Alexis C. "The Mechanics and Meaning". The Atlantic.](https://www.theatlantic.com/technology/archive/2012/06/the-mechanics-and-meaning-of-that-ol-dial-up-modem-sound/257816/)
+- [The Programing Historian: Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
 
 ## Week 2: Do Artifacts Have Politics?
 What can things *do*? Considering the perspective of Science and Technology Studies.
