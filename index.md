@@ -15,9 +15,12 @@ What can things *do*? Considering the perspective of Science and Technology Stud
 - Winner, Langdon. "Do Artifacts Have Politics?" from *The Whale and the Reactor* (1986).
 - Biss, Eula. "Time and Distance Overcome" from *Notes from No Man's Land* (2009).
 
-## Week 3: The Economy of Attention
+## Week 3: Considering Infrastructure
+Before we can go further into networked technologies, we ought to have a starting point -- What do we mean when we say *internet*?
 
-## Week 4: Considering Infrastructure
+- Abbate, Janet. "Government, Business, and the Making of the Internet." *The Business History Review* (Spring 2001)
+
+## Week 4: The Economy of Attention
 
 ## FALL BREAK
 
