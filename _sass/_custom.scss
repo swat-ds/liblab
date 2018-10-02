@@ -167,7 +167,7 @@ header.site-header .site-nav {
   }
 
   li:before {
-    content: "/  ";
+    content: "  ";
     font-weight: 600;
   }
 }
@@ -248,4 +248,16 @@ header.site-header .site-nav {
 
 .mb2 {
   margin-top: 2*$h1;
+}
+
+.home article  {
+  h2 { margin-top: 3rem; }
+  a {
+    color: $dark-gray;
+    background-image: none;
+    text-decoration: underline;
+  }
+  a:hover {
+    color: $red;
+  }
 }
