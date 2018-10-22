@@ -30,7 +30,7 @@ Before we can go further into networked technologies, we ought to have a startin
 
 ## Week 5: The Language of Visualization
 
-[Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” A New Companion to Digital Humanities, edited by Susan Schreibman et al. (2015): 238–50.](https://www.zotero.org/groups/2224126/liblab/items/itemKey/NR2LCXQ9)
+[Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” A New Companion to Digital Humanities, edited by Susan Schreibman et al. (2015): 238–50.](https://www.zotero.org/groups/2224126/liblab/items/VAE35BCK/file)
 
 ## Week 6: Computation in the Humanities
 
