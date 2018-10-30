@@ -35,7 +35,7 @@ Before we can go further into networked technologies, we ought to have a startin
 ## Week 6: Maps as Media
 - [Mattern, Shannon. "Gaps In The Map: Why We’re Mapping Everything, And Why Not Everything Can, Or Should, Be Mapped." *Words in Space* (2015).](http://wordsinspace.net/shannon/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/)
 - [xpMethod, Borderlands Archives Cartography, Linda Rodriguez, Merisa Martinez, and Moacir P. de Sá Pereira. *Torn Apart/Separados* (2018). Vols. 1 & 2.](http://xpmethod.plaintext.in/torn-apart/volume/1/index)
-- *Optional*: [Dreyfuss, Emily. "'Ice Is Everywhere': Using Library Science To Map The Separation Crisis." *Wired* (June 25, 2018).](https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/)
+- *Optional* [Dreyfuss, Emily. "'Ice Is Everywhere': Using Library Science To Map The Separation Crisis." *Wired* (June 25, 2018).](https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/)
 
 ## Week 7: Rethinking Repair and the Material of the Cloud
 
