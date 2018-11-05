@@ -29,7 +29,7 @@ Before we can go further into networked technologies, we ought to have a startin
 ## FALL BREAK
 
 ## Week 5: The Language of Visualization
-- [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” A New Companion to Digital Humanities, edited by Susan Schreibman et al. (2015): 238–50.](https://www.zotero.org/groups/2224126/liblab/items/VAE35BCK/file)
+- [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2015): 238–50.](https://www.zotero.org/groups/2224126/liblab/items/VAE35BCK/file)
 - [Daniels, Matt. "The Language of Hip Hop." *The Pudding* (2017).](https://pudding.cool/2017/02/vocabulary/)
 
 ## Week 6: Maps as Media
@@ -39,7 +39,15 @@ Before we can go further into networked technologies, we ought to have a startin
 
 ## Week 7: Rethinking Repair and the Material of the Cloud
 
+- [Jackson, Steven J. “Rethinking Repair.” In *Media Technologies*, edited by Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot, 221–40. (2014).](https://www.zotero.org/groups/2224126/liblab/items/DSUW6KEW/file)
+
 ## Week 8: When Computers Were Women: Critical Theory and Feminist Interventions
+
+- [Haraway, Donna, and ProQuest (Firm). Simians, Cyborgs, and Women The Reinvention of Nature. Florence: Taylor and Francis, 2013.](https://www.zotero.org/groups/2224126/liblab/items/7ZA3LV8L/file) 
+- [Light, Jennifer S. “When Computers Were Women.” Technology and Culture 40, no. 3 (1999): 455–83.](https://www.zotero.org/groups/2224126/liblab/items/7ESMTF6G/file)
+- *Optional* [Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” Feminist Studies 14, no. 3 (1988): 575.](https://philpapers.org/archive/HARSKT.pdf)
+
+
 
 ## Week 9: Surveillance and the Algorithmic State
 
