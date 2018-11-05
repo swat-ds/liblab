@@ -40,6 +40,9 @@ Before we can go further into networked technologies, we ought to have a startin
 ## Week 7: Rethinking Repair and the Material of the Cloud
 
 - [Jackson, Steven J. “Rethinking Repair.” In *Media Technologies*, edited by Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot, 221–40. (2014).](https://www.zotero.org/groups/2224126/liblab/items/DSUW6KEW/file)
+- [Burtynsky, Edward. (Photographer's Professional Site)](https://www.edwardburtynsky.com/projects/photographs)
+- [Simon, Johnny. “These Beautiful Photos Reveal the Internet Is Hiding in Plain Sight.” Quartz. October 5, 2016.](https://qz.com/770849/these-beautiful-photos-reveal-the-internet-is-hiding-in-plain-sight/)
+- [Greer, Dave. Professional site of artist mentioned in the *Quartz* article.](https://davegreer.cc/INTERNET)
 
 ## Week 8: When Computers Were Women: Critical Theory and Feminist Interventions
 
