@@ -53,6 +53,9 @@ Before we can go further into networked technologies, we ought to have a startin
 
 
 ## Week 9: Surveillance and the Algorithmic State
+No readings this week. Only self-reflection. As you interact with the web this week, think about these questions: Do you care about your online privacy? Do you compromise your privacy for the sake of efficiency, personalized content and/or ethical obligations (e.g. signing an online petition with your name and email)? How many times are you interacting with an algorithm?
+
+Be prepared to share your thoughts and, if you feel inclined, personal examples that spring up from the questions above.
 
 ## Week 10: Encrypted Repositories (with Shannon Mattern)
 
