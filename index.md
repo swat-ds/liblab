@@ -59,6 +59,6 @@ Before we can go further into networked technologies, we ought to have a startin
 
 ## Week 10: Encrypted Repositories (with Shannon Mattern)
 
-- [Mattern, Shannon. "Waves and Wires: CITIES OF ELECTRIC SOUND." In *Code and Clay, Data and Dirt: Five Thousand Years of Urban Media* (2017).](https://files.zotero.net/19276017593/waves.pdf)
+- [Mattern, Shannon. "Waves and Wires: CITIES OF ELECTRIC SOUND." In *Code and Clay, Data and Dirt: Five Thousand Years of Urban Media* (2017).](https://www.zotero.org/groups/2224126/liblab/items/F6BMHHAA/file)
 
 ## Wrap-Up
