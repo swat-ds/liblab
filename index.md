@@ -4,7 +4,7 @@ layout: page
 id: home
 ---
 
-## Week 1: Pshhhkkkkkkrrrrkakingkakingkakingtshchchchchchchchcch*ding*ding*ding
+## [Week 1: Pshhhkkkkkkrrrrkakingkakingkakingtshchchchchchchchcch*ding*ding*ding](https://observablehq.com/@bulbil/pshhhkkkkkkrrrrkakingkakingkakingtshchchchchchchch)
 An introduction to the terrain
 
 - [Madrigal, Alexis C. "The Mechanics and Meaning". The Atlantic.](https://www.theatlantic.com/technology/archive/2012/06/the-mechanics-and-meaning-of-that-ol-dial-up-modem-sound/257816/)
