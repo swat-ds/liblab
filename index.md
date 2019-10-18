@@ -22,11 +22,12 @@ Before we can go further into networked technologies, we ought to have a startin
 - [Abbate, Janet. "Government, Business, and the Making of the Internet." *The Business History Review* (Spring 2001).](https://www.zotero.org/groups/2224126/liblab/items/CE7JGUQ9/file)
 - *Optional* [Star, Susan Leigh. “The Ethnography of Infrastructure.” *American Behavioral Scientist* 43, no. 3 (November 1, 1999): 377–91.](https://www.zotero.org/groups/2224126/liblab/items/J7SKFFFS/file)
 
+## FALL BREAK
+
 ## Week 4: The Language of Visualization
 - [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2015): 238–50.](https://www.zotero.org/groups/2224126/liblab/items/VAE35BCK/file)
 - [Daniels, Matt. "The Language of Hip Hop." *The Pudding* (2017).](https://pudding.cool/2017/02/vocabulary/)
-
-## FALL BREAK
+- *Optional* [D'Ignazio, Catherine and Klein, Lauren. "On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." (chapter draft) In *Data Feminism* (forthcoming 2020).](https://bookbook.pubpub.org/pub/8tjbs2x5) 
 
 ## Week 5: The Economy of Attention
 - [Tufekci, Zeynep. “It’s the (Democracy-Poisoning) Golden Age of Free Speech.” *Wired*, January 16, 2018.](https://www.wired.com/story/free-speech-issue-tech-turmoil-new-censorship/).
