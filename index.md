@@ -46,8 +46,7 @@ Before we can go further into networked technologies, we ought to have a startin
 
 ## Week 7: Performing Identity in Digital Environments
 
-- [Haraway, Donna. "A Cyborg Manifesto." In *Simians, Cyborgs, and Women The Reinvention of Nature* (2013).](https://www.zotero.org/groups/2224126/liblab/items/7ZA3LV8L/file) 
-- [Light, Jennifer S. “When Computers Were Women.” *Technology and Culture* 40, no. 3 (1999): 455–83.](https://www.zotero.org/groups/2224126/liblab/items/7ESMTF6G/file)
+- [databasic.io](https://databasic.io/en/)(*Explore this webapp thinking about who is responsible, who is it for, and how it compares to other related interfaces*)
 - *Optional* [Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” Feminist Studies 14, no. 3 (1988): 575.](https://philpapers.org/archive/HARSKT.pdf)
 
 ## Week 8: Surveillance and the Algorithmic State
