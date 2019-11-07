@@ -46,7 +46,8 @@ Before we can go further into networked technologies, we ought to have a startin
 
 ## Week 7: Performing Identity in Digital Environments
 
-- [databasic.io](https://databasic.io/en/)(*Explore this webapp thinking about who is responsible, who is it for, and how it compares to other related interfaces*)
+- [Chapter Three: “What Gets Counted Counts”](https://bookbook.pubpub.org/pub/rykaknh1)(part of a book titled *Data Feminism* published by MIT)
+- [databasic.io](https://databasic.io/en/)(*Explore this webapp thinking about who is responsible, who is it for, and how it compares to other related interfaces keeping in mind the reading for this week*)
 - *Optional* [Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” Feminist Studies 14, no. 3 (1988): 575.](https://philpapers.org/archive/HARSKT.pdf)
 
 ## Week 8: Surveillance and the Algorithmic State
