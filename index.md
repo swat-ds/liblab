@@ -31,7 +31,7 @@ Before we can go further into networked technologies, we ought to have a startin
 
 - [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2015): 238–50.](https://www.zotero.org/groups/2224126/liblab/items/VAE35BCK/file)
 - [Daniels, Matt. "The Language of Hip Hop." *The Pudding* (2017).](https://pudding.cool/2017/02/vocabulary/)
-- *Optional* [D'Ignazio, Catherine and Klein, Lauren. "On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." (chapter draft) In *Data Feminism* (forthcoming 2020).](https://bookbook.pubpub.org/pub/8tjbs2x5) 
+- *Optional* [D'Ignazio, Catherine and Klein, Lauren. "On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." (chapter draft) In *Data Feminism* (forthcoming 2020).](https://bookbook.pubpub.org/pub/8tjbs2x5)
 
 ## Week 5: The Economy of Attention
 
@@ -50,10 +50,17 @@ Before we can go further into networked technologies, we ought to have a startin
 - [databasic.io](https://databasic.io/en/)(*Explore this webapp thinking about who is responsible, who is it for, and how it compares to other related interfaces keeping in mind the reading for this week*)
 - *Optional* [Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” Feminist Studies 14, no. 3 (1988): 575.](https://philpapers.org/archive/HARSKT.pdf)
 
-## Week 8: Surveillance and the Algorithmic State
-- No readings this week. Only self-reflection. As you interact with the web this week, think about these questions: Do you care about your online privacy? Do you compromise your privacy for the sake of efficiency, personalized content and/or ethical obligations (e.g. signing an online petition with your name and email)? How many times are you interacting with an algorithm?
+## Week 8: Surveillance and Privacy
 
-- Be prepared to share your thoughts and, if you feel inclined, personal examples that spring up from the questions above.
+Is the internet listening? What is Obfuscation?
+
+- [The New Organs](https://neworgans.net/) Watch the 10 minute video and explore the landing page.
+"The New Organs is a project to gather, archive and investigate the theories and realities of corporate surveillance."
+- [Brunton, Fin & Nissenbaum, Helen. "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*"](https://www.zotero.org/groups/2224126/liblab/items/386WF94A/file)*Read only 3.1, 3.2 and 3.3*
+- *Optional* [Kabat, Jennifer. "The Digital Blues." in The End of Trust, McSweeney's 54:148-180](https://www.zotero.org/groups/2224126/liblab/items/NQER9C8U/file)
+
+
+
 
 ## Week 9: Guest Visit
 
