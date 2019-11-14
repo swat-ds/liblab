@@ -55,8 +55,9 @@ Before we can go further into networked technologies, we ought to have a startin
 Is the internet listening? What is Obfuscation?
 
 - [The New Organs](https://neworgans.net/) Watch the 10 minute video and explore the landing page.
+
 "The New Organs is a project to gather, archive and investigate the theories and realities of corporate surveillance."
-- [Brunton, Fin & Nissenbaum, Helen. "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*"](https://www.zotero.org/groups/2224126/liblab/items/386WF94A/file)*Read only 3.1, 3.2 and 3.3*
+- [Brunton, Fin & Nissenbaum, Helen. "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*"](https://www.zotero.org/groups/2224126/liblab/items/386WF94A/file) *Read only 3.1, 3.2 and 3.3*
 - *Optional* [Kabat, Jennifer. "The Digital Blues." in The End of Trust, McSweeney's 54:148-180](https://www.zotero.org/groups/2224126/liblab/items/NQER9C8U/file)
 
 
