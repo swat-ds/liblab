@@ -59,7 +59,7 @@ Is the internet listening? Is the internet listening to everybody?
 "The New Organs is a project to gather, archive and investigate the theories and realities of corporate surveillance."
 
 - [Cyril, Malkia. "Watching the Black Body" In *McSweeney’s 54:0134-0146*"](https://www.zotero.org/groups/2224126/liblab/items/NQER9C8U/file)
-- [Brunton, Fin & Nissenbaum, Helen. "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*"](https://www.zotero.org/groups/2224126/liblab/items/386WF94A/file)
+- *optional* [Brunton, Fin & Nissenbaum, Helen. "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*"](https://www.zotero.org/groups/2224126/liblab/items/386WF94A/file)
 
 
 ## Week 9: Guest Visit
