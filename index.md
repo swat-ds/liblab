@@ -62,6 +62,6 @@ Is the internet listening? Is the internet listening to everybody?
 - *optional* [Brunton, Fin & Nissenbaum, Helen. "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*"](https://www.zotero.org/groups/2224126/liblab/items/386WF94A/file)
 
 
-## Week 9: Guest Visit
-- TBD
+## Week 9: Recap & Workshop
+
 ## Week 10: Wrap-Up
