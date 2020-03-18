@@ -42,7 +42,7 @@ We will also begin our consideration of the problems of electronic text. [An Obs
 - [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2015): 238–50.](https://www.zotero.org/groups/2224126/liblab/items/VAE35BCK/file)
 - [Daniels, Matt. "The Language of Hip Hop." *The Pudding* (2017).](https://pudding.cool/2017/02/vocabulary/)
 - [Osman, Jenna. from *Motion Studies*. PEN Poetry Series. November 25, 2015.](https://pen.org/from-motion-studies/)
-- *Optional* [D'Ignazio, Catherine and Klein, Lauren. "On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." (chapter draft) In *Data Feminism* (forthcoming 2020).](https://bookbook.pubpub.org/pub/8tjbs2x5)
+- *Optional* [D'Ignazio, Catherine and Klein, Lauren. "On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." (chapter draft) In *Data Feminism* (MIT, 2020).](https://bookbook.pubpub.org/pub/8tjbs2x5)
 
 ## Week 5: The Economy of Attention
 
@@ -58,7 +58,7 @@ We will also begin our consideration of the problems of electronic text. [An Obs
 
 ## Week 7: Performing Identity in Digital Environments
 
-- [Chapter Three: “What Gets Counted Counts”](https://bookbook.pubpub.org/pub/rykaknh1)(part of a book titled *Data Feminism* published by MIT)
+- [D'Ignazio, Catherine and Klein, Lauren. "What Gets Counted." (chapter draft) In *Data Feminism* (MIT, 2020).](https://bookbook.pubpub.org/pub/rykaknh1)
 - [databasic.io](https://databasic.io/en/)(*Explore this webapp thinking about who is responsible, who is it for, and how it compares to other related interfaces keeping in mind the reading for this week*)
 - [Abendroth, Emily. *Exclosures 1-8*. Albion Books 4.3. From Eclipse Archive.](http://eclipsearchive.org/projects/EXCLOSURES/Exclosures.pdf)
 - *Optional* [Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” Feminist Studies 14, no. 3 (1988): 575.](https://philpapers.org/archive/HARSKT.pdf)
