@@ -30,7 +30,7 @@ What can things *do*? Considering the perspective of Science and Technology Stud
 
 Before we can go further into networked technologies, we ought to have a starting point -- What do we mean when we say *internet*?
 
-We will also beging to consider the problems of electronic text. [An Observable notebook for this week's discussion.](https://observablehq.com/@bulbil/considering-text?collection=@bulbil/lib-lab-2019)
+We will also begin our consideration of the problems of electronic text. [An Observable notebook for this week's discussion.](https://observablehq.com/@bulbil/considering-text?collection=@bulbil/lib-lab-2019)
 
 - [Abbate, Janet. "Government, Business, and the Making of the Internet." *The Business History Review* (Spring 2001).](https://www.zotero.org/groups/2224126/liblab/items/CE7JGUQ9/file)
 - *Optional* [Star, Susan Leigh. “The Ethnography of Infrastructure.” *American Behavioral Scientist* 43, no. 3 (November 1, 1999): 377–91.](https://www.zotero.org/groups/2224126/liblab/items/J7SKFFFS/file)
