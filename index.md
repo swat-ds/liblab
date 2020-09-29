@@ -41,7 +41,7 @@ Before we can go further into networked technologies, we ought to have a startin
 
 *No readings this week.* We will spend our time getting to know Observable and some of its quirks. Also, since our projects require us to get our hands dirty with data, we will chat about how we use data in our daily life and what we will need to consider to choose a dataset for our project.  
 
-To that end, Lisa Gitelman and Virginia Jackson write in the introduction for *'Raw Data Is an Oxymoron*, 
+To that end, Lisa Gitelman and Virginia Jackson write in the introduction for *"Raw Data" Is an Oxymoron*, 
 >"Data need to be imagined as data to exist and function as such, and the imagination of data entails an interpretive base."
 
 *For next week:*  
