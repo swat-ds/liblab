@@ -47,3 +47,12 @@ To that end, Lisa Gitelman and Virginia Jackson write in the introduction for *"
 *For next week:*  
 - What do the authors mean when they write that "data need to be imagined"?
 - Find an Observable notebook that is data-driven and appeals to you. You can always begin in the [explore](https://observablehq.com/explore) section of Observablehq.com but feel free to look elsewhere.
+
+## Week 5: Language of Visualization
+
+[![Bertin, Semiology of Graphics. 1983. p. 43.]({{ "/media/bertin.png" | relative_url }})](https://www.historyofinformation.com/detail.php?id=3361)
+
+- [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2015): 238–50.](https://www.zotero.org/groups/2224126/liblab/items/VAE35BCK/file)
+- [Daniels, Matt. "The Language of Hip Hop." *The Pudding* (2017).](https://pudding.cool/2017/02/vocabulary/)
+- [Osman, Jenna. from *Motion Studies*. PEN Poetry Series. November 25, 2015.](https://pen.org/from-motion-studies/)
+- *Optional* [D'Ignazio, Catherine and Klein, Lauren. "On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." (chapter draft) In *Data Feminism* (MIT, 2020).](https://bookbook.pubpub.org/pub/8tjbs2x5)
