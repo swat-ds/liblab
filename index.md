@@ -50,8 +50,7 @@ To that end, Lisa Gitelman and Virginia Jackson write in the introduction for *"
 
 ## Week 5: Language of Visualization
 
-![Bertin, Semiology of Graphics. 1983. p. 43.](media/bertin.png)
-[Bertin, Semiology of Graphics. 1983](https://www.historyofinformation.com/detail.php?id=3361)
+[![Bertin, Semiology of Graphics. 1983. p. 43.](media/bertin.png)](https://www.historyofinformation.com/detail.php?id=3361)
 
 What are we doing exactly when we render data visual or legible? Public health, natural catastrophe, electoral politics, and social inequality. Chart, map, and graph. Increasingly, our understanding of the world is mediated by dynamic representations of data attempting to model real world phenomena. In the process, what do we gain access to and, oppositely, what is effaced or made invisible?
 
