@@ -63,7 +63,7 @@ What are we doing exactly when we render data visual or legible? Public health, 
 
 ## Week 6: On Clouds
 
-We talked a bit last week about how what's at stake when we not only make sense of data but make data visible, sensible. Circling back to our conversation about infrastructure, when so much of infrastructure involves the effort to ensure it remains invisible, what does it take to make infrastructure perceptible?
+Circling back to our earlier conversation about how the web works, when so much of infrastructure involves the effort to ensure it remains invisible, what does it take to make sense of infrastructure, that is, make infrastructure sensible and perceptible?
 
 - [Tung-Hui, Hu. “Introduction.” In *A Prehistory of the Cloud* (2015).](https://www.zotero.org/groups/2224126/liblab/items/F5FXBWLS/file)
 - [Simon, Johnny. “These Beautiful Photos Reveal the Internet Is Hiding in Plain Sight.” *Quartz*. October 5, 2016.](https://qz.com/770849/these-beautiful-photos-reveal-the-internet-is-hiding-in-plain-sight/)
