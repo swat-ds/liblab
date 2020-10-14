@@ -52,6 +52,8 @@ To that end, Lisa Gitelman and Virginia Jackson write in the introduction for *"
 
 [![Bertin, Semiology of Graphics. 1983. p. 43.](media/bertin.png)](https://www.historyofinformation.com/detail.php?id=3361)
 
+![Bertin, Semiology of Graphics. 1983. p. 43.](media/bertin.png)
+
 What are we doing exactly when we render data visual or legible? Public health, natural catastrophe, electoral politics, and social inequality. Chart, map, and graph. Increasingly, our understanding of the world is mediated by dynamic representations of data attempting to model real world phenomena. In the process, what do we gain access to and, oppositely, what is effaced or made invisible?
 
 - [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2015): 238–50.](https://www.zotero.org/groups/2224126/liblab/items/VAE35BCK/file)
