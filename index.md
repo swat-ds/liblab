@@ -67,3 +67,13 @@ Circling back to our earlier conversation about how the web works, when so much 
 - [Simon, Johnny. “These Beautiful Photos Reveal the Internet Is Hiding in Plain Sight.” *Quartz*. October 5, 2016.](https://qz.com/770849/these-beautiful-photos-reveal-the-internet-is-hiding-in-plain-sight/)
 - [Greer, Dave. Professional site of artist mentioned in the *Quartz* article.](https://davegreer.cc/INTERNET)
 - [Donnelly, Timothy. "The Cloud Corporation." *Poetry Foundation*.](https://www.poetryfoundation.org/poems/54305/the-cloud-corporation)
+
+## Week 6: Algorithms
+
+![Logical NAND alogrithm](https://upload.wikimedia.org/wikipedia/commons/d/d4/TTL_npn_nand.svg)
+
+The question of "What is an Algorithm?" is as important as the question of "What does an Algorithm do?"  There is a tension at play in what these authors are writing about and as you read and watch, pay attention to their answers to both questions. How would you answer?
+
+- [Schmidth, Ben. "Do Digital Humanists Need to Understand." Algorithms? *Debates in the Digital Humanities 2016*, edited by Gold, Matthew and Klein, Lauren](https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd)
+- [Bogost, Ian. The Cathedral of Computation. *The Athlantic*. January 15,2015](https://www.theatlantic.com/technology/archive/2015/01/the-cathedral-of-computation/384300/)
+- [New Paradigms of Justice. A talk by Dr. Safiya Noble author of *Algorithms of Oppression* 47min - Warning: racist laguange and images displayed during presentation](https://www.youtube.com/watch?v=zJSDPpGsCXE&feature=emb_logo)
