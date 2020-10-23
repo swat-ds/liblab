@@ -76,4 +76,4 @@ The question of "What is an Algorithm?" is as important as the question of "What
 
 - [Schmidth, Ben. "Do Digital Humanists Need to Understand." Algorithms? *Debates in the Digital Humanities 2016*, edited by Gold, Matthew and Klein, Lauren](https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd)
 - [Bogost, Ian. The Cathedral of Computation. *The Athlantic*. January 15,2015](https://www.theatlantic.com/technology/archive/2015/01/the-cathedral-of-computation/384300/)
-- [New Paradigms of Justice. A talk by Dr. Safiya Noble author of *Algorithms of Oppression* 47min - Warning: racist laguange and images displayed during presentation](https://www.youtube.com/watch?v=zJSDPpGsCXE&feature=emb_logo)
+- [New Paradigms of Justice. A talk by Dr. Safiya Noble author of *Algorithms of Oppression* 47min - Warning: racist laguange and images displayed during presentation](https://youtu.be/zJSDPpGsCXE)
