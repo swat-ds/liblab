@@ -67,3 +67,18 @@ Circling back to our earlier conversation about how the web works, when so much 
 - [Simon, Johnny. “These Beautiful Photos Reveal the Internet Is Hiding in Plain Sight.” *Quartz*. October 5, 2016.](https://qz.com/770849/these-beautiful-photos-reveal-the-internet-is-hiding-in-plain-sight/)
 - [Greer, Dave. Professional site of artist mentioned in the *Quartz* article.](https://davegreer.cc/INTERNET)
 - [Donnelly, Timothy. "The Cloud Corporation." *Poetry Foundation*.](https://www.poetryfoundation.org/poems/54305/the-cloud-corporation)
+
+## Week 7: Interlude (Designing for Democracy)
+
+How can we intervene or coopt the tools/discourse of commercial tech to approach pressing social and political problems? What limitations or problems might arise in doing so? This week we took a break from our regularly scheduled programming [to collaborate on a mini design sprint](https://observablehq.com/@bulbil/design-sprint), a tiny gesture towards electoral catharsis.
+
+## Week 8: Surveillance & Privacy
+
+Is the internet listening? Is the internet listening to everybody? What if, by design, we can never know for sure? This week we will focus on the porous border between technical, social, and personal implications of continuous data collection.
+
+- [The New Organs](https://neworgans.net/) Watch the 10 minute video and explore the landing page.
+
+"The New Organs is a project to gather, archive and investigate the theories and realities of corporate surveillance."
+
+- [Cyril, Malkia. "Watching the Black Body" In *McSweeney’s 54:0134-0146*"](https://www.zotero.org/groups/2224126/liblab/items/NQER9C8U/file)
+- *Optional* [Brunton, Fin & Nissenbaum, Helen. "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*"](https://www.zotero.org/groups/2224126/liblab/items/386WF94A/file)
