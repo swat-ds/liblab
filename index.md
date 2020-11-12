@@ -112,7 +112,7 @@ How might machine learning leverage the whole stack to ask pressing questions ab
   - How do we talk about machine learning to non-experts whose lives are nevertheless impacted?
 - [Pipkin, Everest. "On Lacework." *Unthinking Photography* (July 2020).](https://unthinking.photography/articles/on-lacework)
   - Is there an aesthetics to machine learning?
-- [Riedl, Mark. "Automated Rationale Generation." arXiv:1901.03729  (2011).]((https://arxiv.org/abs/1901.03729)
+- [Riedl, Mark. "Automated Rationale Generation." arXiv:1901.03729  (2011).](https://arxiv.org/abs/1901.03729)
   - [Project Page](https://gvu.gatech.edu/research/projects/explainable-ai-rationale-generation)
   - [Demo YouTube Video](https://www.youtube.com/watch?v=vXcuLEBwXsQ)
   - Beyond the scope of this class but worth pointing to an emerging trend called Explainable AI of which this is one particularly entertaining example. What would it mean to ensure algorithms are intelligible by humans? To whom should this responsibility fall?
