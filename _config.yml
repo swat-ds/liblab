@@ -144,6 +144,8 @@ text:
 
 # Build settings
 markdown:     kramdown
+kramdown:
+  html_to_native: false
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
