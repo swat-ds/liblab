@@ -1,5 +1,5 @@
 ---
-title: 2020 Lib/Lab Fellows Syllabus
+title: 2021 Lib/Lab Fellows Syllabus
 layout: page
 id: home
 ---
@@ -18,7 +18,7 @@ An introduction to the terrain.
 
 - [Madrigal, Alexis C. "The Mechanics and Meaning". *The Atlantic*.](https://www.theatlantic.com/technology/archive/2012/06/the-mechanics-and-meaning-of-that-ol-dial-up-modem-sound/257816/)
 - [The Programing Historian: Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
-- [Pratusevich, Michele .*Terminus* (2011).](http://www.mprat.org/projects/terminus/)
+- [Pratusevich, Michele .*Terminus* (2011).](http://www.mprat.org/projects/terminus/)(optional)
     - Text-based adventure game that teaches users how to use terminal commands.
 
 ## Week 2: Do Artifacts Have Politics?
@@ -80,9 +80,9 @@ The question of "What is an Algorithm?" is as important as the question of "What
 - [Bogost, Ian. "The Cathedral of Computation." *The Atlantic*. January 15, 2015.](https://www.theatlantic.com/technology/archive/2015/01/the-cathedral-of-computation/384300/)
 - [New Paradigms of Justice. A talk by Dr. Safiya Noble author of *Algorithms of Oppression* (47min). Warning: racist laguange and images displayed during presentation.](https://youtu.be/zJSDPpGsCXE)
 
-## Week 7: Interlude (Designing for Democracy)
+## Week 7: TBD
 
-How can we intervene or coopt the tools/discourse of commercial tech to approach pressing social and political problems? What limitations or problems might arise in doing so? This week we took a break from our regularly scheduled programming [to collaborate on a mini design sprint](https://observablehq.com/@bulbil/design-sprint), a tiny gesture towards electoral catharsis.
+
 
 ## Week 8: Surveillance & Privacy
 
