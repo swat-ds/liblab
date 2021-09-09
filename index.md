@@ -25,9 +25,9 @@ An introduction to the terrain.
 
 What can things *do*? Considering the perspective of Science and Technology Studies.
 
-[Observable notebook for this week's discussion .](https://observablehq.com/@betovargas/do-artifacts-have-politics)
+<!--[Observable notebook for this week's discussion .](https://observablehq.com/@betovargas/do-artifacts-have-politics)-->
 
-- [Winner, Langdon. "Do Artifacts Have Politics?" from *The Whale and the Reactor* (1986). pp. 121-128.](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
+- [Winner, Langdon. "Do Artifacts Have Politics?" from *The Whale and the Reactor* (1986).](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 - [Biss, Eula. "Time and Distance Overcome" from *Notes from No Man's Land* (2009).](https://ir.uiowa.edu/cgi/viewcontent.cgi?article=6414&context=iowareview)
 
 ## Week 3: Considering Infrastructure
