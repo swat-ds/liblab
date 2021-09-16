@@ -36,7 +36,7 @@ What can things *do*? Considering the perspective of Science and Technology Stud
 
 Before we can go further into networked technologies, we ought to have a starting point -- What do we mean when we say *internet*?
 
-- [Abbate, Janet. "Government, Business, and the Making of the Internet." *The Business History Review* (Spring 2001):147-149, 157-176.](https://www.zotero.org/groups/2224126/liblab/items/CE7JGUQ9/file)
+- [Abbate, Janet. "Government, Business, and the Making of the Internet." *The Business History Review* (Spring 2001)](https://www.zotero.org/groups/2224126/liblab/items/CE7JGUQ9/file)
 - [Visions for the Future Internet](https://findingctrl.nesta.org.uk/) A collection of essays, short stories, poetry and art work reflecting on the question of *what is the internet* and its history. As you browse the site focus on one section (Timeline, Enter, Power, Shift, Delete, ALT, Escape) that most interests you. Come prepared to share your thoughts and opinions
 
 ## Week 4: Getting used to Observable + Intro to Data
