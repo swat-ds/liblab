@@ -4,7 +4,7 @@ layout: page
 id: home
 ---
 
-Now in its fifth year, the LibLab Fellows program is an experiment in library-based learning guided by a critical consideration of just what we mean by "the digital." Fellows engage theory and practice of digital scholarship through open lab hours and weekly discussion meetings during the fall semester.
+Now in its sixth year, the LibLab Fellows program is an experiment in library-based learning guided by a critical consideration of just what we mean by "the digital." Fellows engage theory and practice of digital scholarship through open lab hours and weekly discussion meetings during the fall semester.
 
 We will be making use of the data visualization platform [Observable](https://observablehq.com), working on what might be called the ["Computational Essays"](https://observablehq.com/@bulbil/computational-essay) during the course of the semester. [You can explore some of past work along with notebooks that inspired us here.](https://observablehq.com/collection/@bulbil/lib-lab-2019)
 
@@ -63,16 +63,26 @@ What are we doing exactly when we render data (or anything) visual or legible?  
 - *Optional* [D'Ignazio, Catherine and Klein, Lauren. "On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." (chapter draft) In *Data Feminism* (MIT, 2020).](https://bookbook.pubpub.org/pub/8tjbs2x5)
 - *optional in class reading*[Osman, Jenna. from *Motion Studies*. PEN Poetry Series. November 25, 2015.](https://pen.org/from-motion-studies/)
 
-## Week 6: On Clouds
+## Week 6: Fall Break 
+
+## Week 7: When Computers Were Women: Feminism & Technology
+
+- [Haraway, Donna. "A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century" in Simians, Cyborgs and Women: The Reinvention of Nature (New York; Routledge, 1991), pp.149-181](https://www.sfu.ca/~decaste/OISE/page2/files/HarawayCyborg.pdf)
+- [Kane, Nancy. "Cyborg Manifesto," Encyclopedia of Gender and Society. (this may help you frame some of the strangeness of the Haraway piece and point out its significance)](https://sk.sagepub.com/reference/gender/n99.xml)
+- [Light, Jennifer. "When Computers Were Women." Technology and Culture.](https://www.jstor.org/stable/25147356)
+
+## Week 8: On Clouds
 
 Circling back to our earlier conversation about how the web works, when so much of infrastructure involves the effort to ensure it remains invisible, what does it take to make sense of infrastructure, that is, make infrastructure sensible and perceptible?
 
-- [Tung-Hui, Hu. “Introduction.” In *A Prehistory of the Cloud* (2015).](https://www.zotero.org/groups/2224126/liblab/items/F5FXBWLS/file)
+- [Tung-Hui, Hu. “Introduction.” In *A Prehistory of the Cloud* (2015)](https://ebookcentral.proquest.com/lib/swarthmore/reader.action?docID=3433802&ppg=10)
 - [Simon, Johnny. “These Beautiful Photos Reveal the Internet Is Hiding in Plain Sight.” *Quartz*. October 5, 2016.](https://qz.com/770849/these-beautiful-photos-reveal-the-internet-is-hiding-in-plain-sight/)
-- [Greer, Dave. Professional site of artist mentioned in the *Quartz* article.](https://davegreer.cc/INTERNET)
+- [How Amazon uses 18-wheeler to transfer heavy data loads to the cloud](https://www.cnbc.com/2019/07/19/how-amazon-uses-snowmobile-trucks-snowball-devices-for-data-transfer.html)
 - [Donnelly, Timothy. "The Cloud Corporation." *Poetry Foundation*.](https://www.poetryfoundation.org/poems/54305/the-cloud-corporation)
+*related previous reading* [Mattern, Shannon. "How to Map Nothing." *Places Journal* (March, 2021)](https://placesjournal.org/article/how-to-map-nothing/?cn-reloaded=1)
+*optional* [Jackson, Steven. 2014. "Rethinking Repair," from Media Technologies: Essays on Communication, Materiality, and Society](https://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf)
 
-## Week 6: Algorithms
+## Week 9: Algorithms
 
 ![Logical NAND alogrithm](https://upload.wikimedia.org/wikipedia/commons/d/d4/TTL_npn_nand.svg)
 
@@ -82,11 +92,11 @@ The question of "What is an Algorithm?" is as important as the question of "What
 - [Bogost, Ian. "The Cathedral of Computation." *The Atlantic*. January 15, 2015.](https://www.theatlantic.com/technology/archive/2015/01/the-cathedral-of-computation/384300/)
 - [New Paradigms of Justice. A talk by Dr. Safiya Noble author of *Algorithms of Oppression* (47min). Warning: racist laguange and images displayed during presentation.](https://youtu.be/zJSDPpGsCXE)
 
-## Week 7: TBD
+## Week 10: TBD
 
 
 
-## Week 8: Surveillance & Privacy
+## Week 11: Surveillance & Privacy
 
 Is the internet listening? Is the internet listening to everybody? What if, by design, we can never know for sure? This week we will focus on the porous border between technical, social, and personal implications of continuous data collection.
 
@@ -97,7 +107,7 @@ Is the internet listening? Is the internet listening to everybody? What if, by d
 - [Cyril, Malkia. "Watching the Black Body." In *McSweeney’s* 54, pp. 0134-0146.](https://www.zotero.org/groups/2224126/liblab/items/NQER9C8U/file)
 - *Optional* [Brunton, Fin & Nissenbaum, Helen. "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*."](https://www.zotero.org/groups/2224126/liblab/items/386WF94A/file)
 
-## Week 9: Machine Learning
+## Week 12: Machine Learning
 
 Over the last twenty years give or take, the fabric of our lives has been interwoven with a special class of algorithms: Algorithms that use dynamic statistical weighting plus training data to generate novel outputs that may not have been explicitly programmed. Algorithms that, with more data and more iterations, self-modify. Spam filtering. Suggested text. Recommendations. Siri. Facial detection/recognition. Self-driving cars. This is not new!
 
