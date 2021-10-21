@@ -79,8 +79,8 @@ Circling back to our earlier conversation about how the web works, when so much 
 - [Simon, Johnny. “These Beautiful Photos Reveal the Internet Is Hiding in Plain Sight.” *Quartz*. October 5, 2016.](https://qz.com/770849/these-beautiful-photos-reveal-the-internet-is-hiding-in-plain-sight/)
 - [How Amazon uses 18-wheeler to transfer heavy data loads to the cloud](https://www.cnbc.com/2019/07/19/how-amazon-uses-snowmobile-trucks-snowball-devices-for-data-transfer.html)
 - [Donnelly, Timothy. "The Cloud Corporation." *Poetry Foundation*.](https://www.poetryfoundation.org/poems/54305/the-cloud-corporation)
-*related previous reading* [Mattern, Shannon. "How to Map Nothing." *Places Journal* (March, 2021)](https://placesjournal.org/article/how-to-map-nothing/?cn-reloaded=1)
-*optional* [Jackson, Steven. 2014. "Rethinking Repair," from Media Technologies: Essays on Communication, Materiality, and Society](https://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf)
+- *related previous reading* [Mattern, Shannon. "How to Map Nothing." *Places Journal* (March, 2021)](https://placesjournal.org/article/how-to-map-nothing/?cn-reloaded=1)
+- *optional* [Jackson, Steven. 2014. "Rethinking Repair," from Media Technologies: Essays on Communication, Materiality, and Society](https://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf)
 
 ## Week 9: Algorithms
 
