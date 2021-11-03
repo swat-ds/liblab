@@ -94,9 +94,7 @@ Is the internet listening? Is the internet listening to everybody? What if, by d
 "The New Organs is a project to gather, archive and investigate the theories and realities of corporate surveillance."
 
 - [Cyril, Malkia. "Watching the Black Body." In *McSweeney’s* 54, pp. 0134-0146.](https://www.eff.org/deeplinks/2019/02/watching-black-body)
-- 
 - [FBI report for Black Identity Extremist](https://www.documentcloud.org/documents/4067711-BIE-Redacted.html)
-- 
 - *Optional* [Brunton, Fin & Nissenbaum, Helen. "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*."](https://www.zotero.org/groups/2224126/liblab/items/386WF94A/file)
 
 ## Week 11: Algorithms
