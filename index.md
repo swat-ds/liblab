@@ -82,7 +82,24 @@ Circling back to our earlier conversation about how the web works, when so much 
 - *related previous reading* [Mattern, Shannon. "How to Map Nothing." *Places Journal* (March, 2021)](https://placesjournal.org/article/how-to-map-nothing/?cn-reloaded=1)
 - *optional* [Jackson, Steven. 2014. "Rethinking Repair," from Media Technologies: Essays on Communication, Materiality, and Society](https://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf)
 
-## Week 9: Algorithms
+## Week 9: Observable and the Computational Essay
+
+## Week 10: Privacy
+Surveillance & Privacy
+
+Is the internet listening? Is the internet listening to everybody? What if, by design, we can never know for sure? This week we will focus on the porous border between technical, social, and personal implications of continuous data collection.
+
+- [The New Organs](https://neworgans.net/) Watch the 10 minute video and explore the landing page.
+
+"The New Organs is a project to gather, archive and investigate the theories and realities of corporate surveillance."
+
+- [Cyril, Malkia. "Watching the Black Body." In *McSweeney’s* 54, pp. 0134-0146.](https://www.eff.org/deeplinks/2019/02/watching-black-body)
+- 
+- [FBI report for Black Identity Extremist](https://www.documentcloud.org/documents/4067711-BIE-Redacted.html)
+- 
+- *Optional* [Brunton, Fin & Nissenbaum, Helen. "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*."](https://www.zotero.org/groups/2224126/liblab/items/386WF94A/file)
+
+## Week 11: Algorithms
 
 ![Logical NAND alogrithm](https://upload.wikimedia.org/wikipedia/commons/d/d4/TTL_npn_nand.svg)
 
@@ -96,16 +113,9 @@ The question of "What is an Algorithm?" is as important as the question of "What
 
 
 
-## Week 11: Surveillance & Privacy
+## Week 11: TBD
 
-Is the internet listening? Is the internet listening to everybody? What if, by design, we can never know for sure? This week we will focus on the porous border between technical, social, and personal implications of continuous data collection.
 
-- [The New Organs](https://neworgans.net/) Watch the 10 minute video and explore the landing page.
-
-"The New Organs is a project to gather, archive and investigate the theories and realities of corporate surveillance."
-
-- [Cyril, Malkia. "Watching the Black Body." In *McSweeney’s* 54, pp. 0134-0146.](https://www.zotero.org/groups/2224126/liblab/items/NQER9C8U/file)
-- *Optional* [Brunton, Fin & Nissenbaum, Helen. "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*."](https://www.zotero.org/groups/2224126/liblab/items/386WF94A/file)
 
 ## Week 12: Machine Learning
 
