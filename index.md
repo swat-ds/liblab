@@ -84,8 +84,7 @@ Circling back to our earlier conversation about how the web works, when so much 
 
 ## Week 9: Observable and the Computational Essay
 
-## Week 10: Privacy
-Surveillance & Privacy
+## Week 10: Surveillance & Privacy
 
 Is the internet listening? Is the internet listening to everybody? What if, by design, we can never know for sure? This week we will focus on the porous border between technical, social, and personal implications of continuous data collection.
 
