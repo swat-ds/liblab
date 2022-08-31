@@ -106,15 +106,10 @@ The question of "What is an Algorithm?" is as important as the question of "What
 - [Bogost, Ian. "The Cathedral of Computation." *The Atlantic*. January 15, 2015.](https://www.theatlantic.com/technology/archive/2015/01/the-cathedral-of-computation/384300/)
 - [New Paradigms of Justice. A talk by Dr. Safiya Noble author of *Algorithms of Oppression* (47min). Warning: racist laguange and images displayed during presentation.](https://youtu.be/zJSDPpGsCXE)
 
-## Week 10: TBD
+## Week 10: Interlude 
+How can we intervene or coopt the tools/discourse of commercial tech to approach pressing social and political problems? What limitations or problems might arise in doing so? This week we took a break from our regularly scheduled programming to collaborate on a mini design sprint, a tiny gesture towards electoral catharsis.
 
-
-
-## Week 11: TBD
-
-
-
-## Week 12: Machine Learning
+## Week 11: Machine Learning
 
 Over the last twenty years give or take, the fabric of our lives has been interwoven with a special class of algorithms: Algorithms that use dynamic statistical weighting plus training data to generate novel outputs that may not have been explicitly programmed. Algorithms that, with more data and more iterations, self-modify. Spam filtering. Suggested text. Recommendations. Siri. Facial detection/recognition. Self-driving cars. This is not new!
 
