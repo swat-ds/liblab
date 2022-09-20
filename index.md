@@ -1,10 +1,10 @@
 ---
-title: 2021 Lib/Lab Fellows Syllabus
+title: 2022 Lib/Lab Fellows Syllabus
 layout: page
 id: home
 ---
 
-Now in its sixth year, the LibLab Fellows program is an experiment in library-based learning guided by a critical consideration of just what we mean by "the digital." Fellows engage theory and practice of digital scholarship through open lab hours and weekly discussion meetings during the fall semester.
+Now in its seveth year, the LibLab Fellows program is an experiment in library-based learning guided by a critical consideration of just what we mean by "the digital." Fellows engage theory and practice of digital scholarship through open lab hours and weekly discussion meetings during the fall semester.
 
 We will be making use of the data visualization platform [Observable](https://observablehq.com), working on what might be called the ["Computational Essays"](https://observablehq.com/@bulbil/computational-essay) during the course of the semester. [You can explore some of past work along with notebooks that inspired us here.](https://observablehq.com/collection/@bulbil/lib-lab-2019)
 
@@ -30,8 +30,7 @@ What can things *do*? Considering the perspective of Science and Technology Stud
 - [Winner, Langdon. "Do Artifacts Have Politics?" from *The Whale and the Reactor* (1986).](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 - [Biss, Eula. "Time and Distance Overcome" from *Notes from No Man's Land* (2009).](https://ir.uiowa.edu/cgi/viewcontent.cgi?article=6414&context=iowareview)
 
-## Week 3: Considering Infrastructure
-
+<!-- ## Week 3: Considering Infrastructure
 ![National ARPA Network Map](media/arpa-network.jpg)
 
 Before we can go further into networked technologies, we ought to have a starting point -- What do we mean when we say *internet*?
@@ -129,4 +128,4 @@ How might machine learning leverage the whole stack to ask pressing questions ab
 - [Riedl, Mark. "Automated Rationale Generation." arXiv:1901.03729  (2011).](https://arxiv.org/abs/1901.03729)
   - [Project Page](https://gvu.gatech.edu/research/projects/explainable-ai-rationale-generation)
   - [Demo YouTube Video](https://www.youtube.com/watch?v=vXcuLEBwXsQ)
-  - Beyond the scope of this class but worth pointing to an emerging trend called Explainable AI of which this is one particularly entertaining example. What would it mean to ensure algorithms are intelligible by humans? To whom should this responsibility fall?
+  - Beyond the scope of this class but worth pointing to an emerging trend called Explainable AI of which this is one particularly entertaining example. What would it mean to ensure algorithms are intelligible by humans? To whom should this responsibility fall? -->
