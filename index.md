@@ -28,7 +28,7 @@ What can things *do*? Considering the perspective of Science and Technology Stud
 <!--[Observable notebook for this week's discussion .](https://observablehq.com/@betovargas/do-artifacts-have-politics)-->
 
 - [Winner, Langdon. "Do Artifacts Have Politics?" from *The Whale and the Reactor* (1986).](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
-- [Biss, Eula. "Time and Distance Overcome" from *Notes from No Man's Land* (2009).](https://ir.uiowa.edu/cgi/viewcontent.cgi?article=6414&context=iowareview)
+- [Biss, Eula. "Time and Distance Overcome" from *Notes from No Man's Land* (2009).](https://pubs.lib.uiowa.edu/iowareview/article/16487/galley/124886/view/)
 
 <!-- ## Week 3: Considering Infrastructure
 ![National ARPA Network Map](media/arpa-network.jpg)
