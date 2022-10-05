@@ -30,7 +30,7 @@ What can things *do*? Considering the perspective of Science and Technology Stud
 - [Winner, Langdon. "Do Artifacts Have Politics?" from *The Whale and the Reactor* (1986).](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 - [Biss, Eula. "Time and Distance Overcome" from *Notes from No Man's Land* (2009).](https://pubs.lib.uiowa.edu/iowareview/article/16487/galley/124886/view/)
 
-<!-- ## Week 3: Considering Infrastructure
+## Week 3: Considering Infrastructure
 ![National ARPA Network Map](media/arpa-network.jpg)
 
 Before we can go further into networked technologies, we ought to have a starting point -- What do we mean when we say *internet*?
@@ -38,7 +38,7 @@ Before we can go further into networked technologies, we ought to have a startin
 - [Abbate, Janet. "Government, Business, and the Making of the Internet." *The Business History Review* (Spring 2001)](https://www.zotero.org/groups/2224126/liblab/items/CE7JGUQ9/file)
 - [Visions for the Future Internet](https://findingctrl.nesta.org.uk/) A collection of essays, short stories, poetry and art work reflecting on the question of *what is the internet* and its history. As you browse the site focus on one section (Timeline, Enter, Power, Shift, Delete, ALT, Escape) that most interests you. Come prepared to share your thoughts and opinions
 
-## Week 4: Getting used to Observable + Intro to Data
+<!-- ## Week 4: Getting used to Observable + Intro to Data
 
 *No readings this week.* We will spend our time getting to know Observable and some of its quirks. Also, since our projects require us to get our hands dirty with data, we will chat about how we use data in our daily life and what we will need to consider to choose a dataset for our project.  
 
