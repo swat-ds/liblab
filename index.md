@@ -50,7 +50,7 @@ If you are interested in reading more, you can access the ebook here [Raw Data i
 *In preparation*  
 - Find an Observable notebook that is data-driven and appeals to you. You can always begin in the [explore](https://observablehq.com/explore) section of Observablehq.com but feel free to look elsewhere.
 
-<!-- ## Week 5: Language of Visualization
+## Week 5: Language of Visualization
 
 [![Bertin, Semiology of Graphics. 1983. p. 43.](media/bertin.png)](https://www.historyofinformation.com/detail.php?id=3361)
 
@@ -63,7 +63,7 @@ What are we doing exactly when we render data (or anything) visual or legible?  
 - *Optional* [D'Ignazio, Catherine and Klein, Lauren. "On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." (chapter draft) In *Data Feminism* (MIT, 2020).](https://bookbook.pubpub.org/pub/8tjbs2x5)
 - *optional in class reading*[Osman, Jenna. from *Motion Studies*. PEN Poetry Series. November 25, 2015.](https://pen.org/from-motion-studies/)
 
-## Week 6: Fall Break 
+<!--## Week 6: Fall Break 
 
 ## Week 7: When Computers Were Women: Feminism & Technology
 
