@@ -64,15 +64,13 @@ Take a look at this page and the vizualisation. No need to read it completly.
 - *Optional* [D'Ignazio, Catherine and Klein, Lauren. "On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." (chapter draft) In *Data Feminism* (MIT, 2020).](https://bookbook.pubpub.org/pub/8tjbs2x5)
 - *optional in class reading*[Osman, Jenna. from *Motion Studies*. PEN Poetry Series. November 25, 2015.](https://pen.org/from-motion-studies/)
 
-<!--## Week 6: Fall Break 
-
-## Week 7: When Computers Were Women: Feminism & Technology
+## Week 6: When Computers Were Women: Feminism & Technology
 
 - [Haraway, Donna. "A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century" in Simians, Cyborgs and Women: The Reinvention of Nature (New York; Routledge, 1991), pp.149-181](https://www.sfu.ca/~decaste/OISE/page2/files/HarawayCyborg.pdf)
 - [Kane, Nancy. "Cyborg Manifesto," Encyclopedia of Gender and Society. (this may help you frame some of the strangeness of the Haraway piece and point out its significance)](https://sk.sagepub.com/reference/gender/n99.xml)
 - [Light, Jennifer. "When Computers Were Women." Technology and Culture.](https://www.jstor.org/stable/25147356)
 
-## Week 8: On Clouds
+<!--### Week 8: On Clouds
 
 Circling back to our earlier conversation about how the web works, when so much of infrastructure involves the effort to ensure it remains invisible, what does it take to make sense of infrastructure, that is, make infrastructure sensible and perceptible?
 
