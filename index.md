@@ -70,14 +70,15 @@ Take a look at this page and the vizualisation. No need to read it completly.
 - [Kane, Nancy. "Cyborg Manifesto," Encyclopedia of Gender and Society. (this may help you frame some of the strangeness of the Haraway piece and point out its significance)](https://sk.sagepub.com/reference/gender/n99.xml)
 - [Light, Jennifer. "When Computers Were Women." Technology and Culture.](https://www.jstor.org/stable/25147356)
 
-## Week 7: Observable and privacy
+## Week 7 and 8: Observable + privacy + algorithms
 
-Is the internet listening? Is the internet listening to everybody? What if, by design, we can never know for sure? This week we will focus on the porous border between technical, social, and personal implications of continuous data collection.
+For the following two weeks, we will be learning to code our vizualizations and discuss algorithns and privacy. 
 
 - [The New Organs](https://neworgans.net/) Watch the 10 minute video and explore the landing page.
 - [Cyril, Malkia. "Watching the Black Body." In *McSweeney’s* 54, pp. 0134-0146.](https://www.eff.org/deeplinks/2019/02/watching-black-body)
 - [FBI report for Black Identity Extremist](https://www.documentcloud.org/documents/4067711-BIE-Redacted.html)
--[Brunton, Fin & Nissenbaum, Helen. "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*."](https://ebookcentral.proquest.com/lib/swarthmore/reader.action?docID=4093096&ppg=58)
+- [Brunton, Fin & Nissenbaum, Helen. Chapter 3 "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*."](https://ebookcentral.proquest.com/lib/swarthmore/reader.action?docID=4093096&ppg=58)
+- [Machine Bias in Propublica by Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner,](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
 ## Week 8: Algorithms
 <!--### Week 8: On Clouds
