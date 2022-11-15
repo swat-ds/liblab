@@ -70,17 +70,24 @@ Take a look at this page and the vizualisation. No need to read it completly.
 - [Kane, Nancy. "Cyborg Manifesto," Encyclopedia of Gender and Society. (this may help you frame some of the strangeness of the Haraway piece and point out its significance)](https://sk.sagepub.com/reference/gender/n99.xml)
 - [Light, Jennifer. "When Computers Were Women." Technology and Culture.](https://www.jstor.org/stable/25147356)
 
-## Week 7 and 8: Observable + privacy + algorithms
+## Week 7: Observable + privacy 
 
-For the following two weeks, we will be learning to code our vizualizations and discuss algorithns and privacy. 
+Is the internet listening? Is the internet listening to everybody? What if, by design, we can never know for sure? This week we will focus on the porous border between technical, social, and personal implications of continuous data collection.
 
 - [The New Organs](https://neworgans.net/) Watch the 10 minute video and explore the landing page.
 - [Cyril, Malkia. "Watching the Black Body." In *McSweeney’s* 54, pp. 0134-0146.](https://www.eff.org/deeplinks/2019/02/watching-black-body)
 - [FBI report for Black Identity Extremist](https://www.documentcloud.org/documents/4067711-BIE-Redacted.html)
 - [Brunton, Fin & Nissenbaum, Helen. Chapter 3 "Why is Obfuscation Necessary." In *Obfuscation: A User's Guide for Privacy and Protest*."](https://ebookcentral.proquest.com/lib/swarthmore/reader.action?docID=4093096&ppg=58)
-- [Machine Bias in Propublica by Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner,](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+
 
 ## Week 8: Algorithms
+The question of "What is an Algorithm?" is as important as the question of "What does an Algorithm do?"  There is a tension at play in what these authors are writing about and as you read and watch, pay attention to their answers to both questions. How would you answer?
+
+- [Benjamin, Ruha. Short chapter 2."Default Discrimination Is the Glitch Systemic?" In *The New Jim Code*](https://ebookcentral.proquest.com/lib/swarthmore/reader.action?docID=5820427&ppg=61)
+- [Schmidth, Ben. "Do Digital Humanists Need to Understand Algorithms?" *Debates in the Digital Humanities 2016*, edited by Gold, Matthew and Klein, Lauren.](https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd)
+-  [Machine Bias in Propublica by Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner,](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+
+
 <!--### Week 8: On Clouds
 
 Circling back to our earlier conversation about how the web works, when so much of infrastructure involves the effort to ensure it remains invisible, what does it take to make sense of infrastructure, that is, make infrastructure sensible and perceptible?
