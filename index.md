@@ -28,8 +28,8 @@ Readings:
 
 ## Week 3 - September 28: Code + AI
 
-- [ChatGPT, or the Eschatology of Machines](https://www.e-flux.com/journal/137/544816/chatgpt-or-the-eschatology-of-machines/)
-- [AI Is a Lot of Work: As the technology becomes ubiquitous, a vast tasker underclass is emerging — and not going anywhere.](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)
+- [Hui, Yuk. ChatGPT, or the Eschatology of Machines](https://www.e-flux.com/journal/137/544816/chatgpt-or-the-eschatology-of-machines/)
+- [Dzieza, Josh. AI Is a Lot of Work: As the technology becomes ubiquitous, a vast tasker underclass is emerging — and not going anywhere.](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)
 - [Moderator Mayhem](https://moderatormayhem.engine.is/)
   
 ## Week 4 - October 5: Metadata / Data
@@ -39,8 +39,8 @@ Lisa Gitelman and Virginia Jackson write in the introduction for *"Raw Data" Is 
 
 What do you think when you hear the term "raw data"? 
 
-- [Raw Data is an Oxymoron: Introduction ](https://doi.org/10.7551/mitpress/9302.001.0001-)
-- [Data Feminism: Chapter 1 The Power Chater](https://doi.org/10.7551/mitpress/11805.001.0001)
+- [Gitelman,Lisa & Jackson, Virginia.Raw Data is an Oxymoron: Introduction ](https://doi.org/10.7551/mitpress/9302.001.0001)
+- [D'Ignazio,Catherine & Klein, Lauren. Data Feminism: Chapter 1 The Power Chater](https://doi.org/10.7551/mitpress/11805.001.0001)
 - [Data Feminism reading group](https://datafeminism.io/blog/book/data-feminism-reading-group/)
 
 - Digitization demo
@@ -51,13 +51,13 @@ What do you think when you hear the term "raw data"?
 Before we can go further into networked technologies, we ought to have a starting point - What do we mean when we say *internet*? What makes it different from other forms of information technology?
 
 - [Visions for the Future Internet](https://findingctrl.nesta.org.uk/) A collection of essays, short stories, poetry and art work reflecting on the question of *what is the internet* and its history. As you browse the site focus on one section (Timeline, Enter, Power, Shift, Delete, ALT, Escape) that most interests you. Come prepared to share your thoughts and opinions
-- [If it Rains, Ask Grandma to Disconnect the Nano: Maintenance & Care in Havana's StreetNet](https://dl.acm.org/doi/abs/10.1145/3359289)
+- [Dye, Michaelanne & Nemer, David & Kumar, Neha & Bruckman, Amy. If it Rains, Ask Grandma to Disconnect the Nano: Maintenance & Care in Havana's StreetNet](https://dl.acm.org/doi/abs/10.1145/3359289)
 
 - Doc-Humanity Revolution: What is the web. 
 
 ## Week 6 - October 26: Search + Alogrithms
 
-- [Theorizing Research Practices we Forgot to Theorize Twenty Years Ago](https://www.jstor.org/stable/10.1525/rep.2014.127.1.64?sid=primo)
+- [Underwood, Ted. Theorizing Research Practices we Forgot to Theorize Twenty Years Ago](https://www.jstor.org/stable/10.1525/rep.2014.127.1.64?sid=primo)
 - [Algorithms of Oppression - 16 min video](https://www.youtube.com/watch?v=UXuJ8yQf6dI)
 - Book traces
 
@@ -75,7 +75,7 @@ In this process, what do we gain access to and, oppositely, what is effaced or m
 
 - [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2016): 290–302.](https://ebookcentral.proquest.com/lib/swarthmore/reader.action?docID=4093339&ppg=290) 
 - [1969 "Mother of All Demos"](https://youtu.be/B6rKUf9DWRI)
-- [Visualizing the Unertainty in Data](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/)
+- [Yau, Nathan. Visualizing the Unertainty in Data](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/)
 - *optional in class reading*[Osman, Jenna. from *Motion Studies*. PEN Poetry Series. November 25, 2015.](https://pen.org/from-motion-studies/)
 
 ## Week 9 - November 16: Maps
@@ -86,10 +86,10 @@ In this process, what do we gain access to and, oppositely, what is effaced or m
 ## Week 10 - November 30: Surveillance and embodiment
 
 -  Dark Matters: On the Surveillance of Blackness
--  [Obfuscation: A User's Guide for Privacy and Protest. Chapter 3: Why Obfuscation is Necessary](https://doi.org/10.7551/mitpress/9780262029735.001.0001)
+-  [Brunton, Finn  & Nissenbaum, Helen. Obfuscation: A User's Guide for Privacy and Protest. Chapter 3: Why Obfuscation is Necessary](https://doi.org/10.7551/mitpress/9780262029735.001.0001)
 
 ## Week 11 - December 7: Immersive Technologies
-- [Virtous Virtual Realities](https://journals.sagepub.com/doi/full/10.1177/1470412920906259)
+- [Nakamura, Lisa. Virtous Virtual Realities](https://journals.sagepub.com/doi/full/10.1177/1470412920906259)
 - [DLFteach Toolkit Volume 2: Lesson Plans on Immersive Pedagogy](https://dlfteach.pubpub.org/dlfteach-toolkit-2)
 - [Make your own avatar](https://readyplayer.me/avatar )
 
