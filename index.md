@@ -1,76 +1,101 @@
 ---
-title: 2022 Lib/Lab Fellows Syllabus
+title: 2023 Lib/Lab Fellows Syllabus
 layout: page
 id: home
 ---
 
-Now in its seveth year, the LibLab Fellows program is an experiment in library-based learning guided by a critical consideration of just what we mean by "the digital." Fellows engage theory and practice of digital scholarship through open lab hours and weekly discussion meetings during the fall semester.
+Now in its eigth, the LibLab Fellows program is an experiment in library-based learning guided by a critical consideration of just what we mean by "the digital." Fellows engage theory and practice of digital scholarship through open lab hours and weekly discussion meetings during the fall semester and spring semester
 
-We will be making use of the data visualization platform [Observable](https://observablehq.com), working on what might be called the ["Computational Essays"](https://observablehq.com/@bulbil/computational-essay) during the course of the semester. [You can explore some of past work along with notebooks that inspired us here.](https://observablehq.com/collection/@bulbil/lib-lab-2019)
+syllabus in progress....
 
-## [Week 1: Pshhhkkkkkkrrrrkakingkakingkakingtshchchchchchchchcch*ding*ding*ding](https://observablehq.com/@bulbil/pshhhkkkkkkrrrrkakingkakingkakingtshchchchchchchch)
-
-![Post It note wall](media/mapping-the-terrain.jpg)
+## Week 1 - September 14: Introductions and framing
 
 An introduction to the terrain.
 
-[Observable notebook for this week's discussion.](https://observablehq.com/@bulbil/pshhhkkkkkkrrrrkakingkakingkakingtshchchchchchchch)
+From the physical to the digital. What new information is gained? What is lost? 
 
-- [Madrigal, Alexis C. "The Mechanics and Meaning". *The Atlantic*.](https://www.theatlantic.com/technology/archive/2012/06/the-mechanics-and-meaning-of-that-ol-dial-up-modem-sound/257816/)
-- [The Programing Historian: Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
-- [Pratusevich, Michele .*Terminus* (2011).](http://www.mprat.org/projects/terminus/)(optional)
-    - Text-based adventure game that teaches users how to use terminal commands.
+Readings:
+- [‘Farewell, Etaoin Shrdlu'](https://www.nytimes.com/video/insider/100000004687429/farewell-etaoin-shrdlu.html)
+- [Binding Media: Print-Digital Literature 1980s-2010s](https://elikaortega.net/projects/1_project/)
 
-## Week 2: Do Artifacts Have Politics?
+## Week 2 - September 21: Do Artifacts Have Politics? 
 
-What can things *do*? Considering the perspective of Science and Technology Studies.
+What can things *do*? Considering the perspective of Science and Technology Studies. Are the technologies that we will study neutral? In other words, is the saying: “it depends how you use the tool that matters” universally true or is technology inherently biased?
 
-<!--[Observable notebook for this week's discussion .](https://observablehq.com/@betovargas/do-artifacts-have-politics)-->
-
+Readings:
 - [Winner, Langdon. "Do Artifacts Have Politics?" from *The Whale and the Reactor* (1986).](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 - [Biss, Eula. "Time and Distance Overcome" from *Notes from No Man's Land* (2009).](https://pubs.lib.uiowa.edu/iowareview/article/16487/galley/124886/view/)
 
-## Week 3: Considering Infrastructure
+## Week 3 - September 28: Code + AI
+
+- [ChatGPT, or the Eschatology of Machines](https://www.e-flux.com/journal/137/544816/chatgpt-or-the-eschatology-of-machines/)
+- [AI Is a Lot of Work: As the technology becomes ubiquitous, a vast tasker underclass is emerging — and not going anywhere.](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)
+- [Moderator Mayhem](https://moderatormayhem.engine.is/)
+  
+## Week 4 - October 5: Metadata / Data
+
+Lisa Gitelman and Virginia Jackson write in the introduction for *"Raw Data" Is an Oxymoron*, 
+>"Data need to be imagined as data to exist and function as such, and the imagination of data entails an interpretive base."
+
+What do you think when you hear the term "raw data"? 
+
+- [Raw Data is an Oxymoron: Introduction ](https://doi.org/10.7551/mitpress/9302.001.0001-)
+- [Data Feminism: Chapter 1 The Power Chater](https://doi.org/10.7551/mitpress/11805.001.0001)
+- [Data Feminism reading group](https://datafeminism.io/blog/book/data-feminism-reading-group/)
+
+- Digitization demo
+
+## Week 5 - October 12: Network + Internet
 ![National ARPA Network Map](media/arpa-network.jpg)
 
-Before we can go further into networked technologies, we ought to have a starting point -- What do we mean when we say *internet*?
+Before we can go further into networked technologies, we ought to have a starting point - What do we mean when we say *internet*? What makes it different from other forms of information technology?
 
-- [Abbate, Janet. "Government, Business, and the Making of the Internet." *The Business History Review* (Spring 2001)](https://www.jstor.org/stable/3116559#metadata_info_tab_contents)
 - [Visions for the Future Internet](https://findingctrl.nesta.org.uk/) A collection of essays, short stories, poetry and art work reflecting on the question of *what is the internet* and its history. As you browse the site focus on one section (Timeline, Enter, Power, Shift, Delete, ALT, Escape) that most interests you. Come prepared to share your thoughts and opinions
+- [If it Rains, Ask Grandma to Disconnect the Nano: Maintenance & Care in Havana's StreetNet](https://dl.acm.org/doi/abs/10.1145/3359289)
 
-## Week 4: Getting used to Observable + Intro to Data
+- Doc-Humanity Revolution: What is the web. 
 
-*No readings this week.* We will spend our time getting to know Observable and some of its quirks. Also, since our projects require us to get our hands dirty with data, we will chat about how we use data in our daily life and what we will need to consider to choose a dataset for our project.  
+## Week 6 - October 26: Search + Alogrithms
 
-To that end, Lisa Gitelman and Virginia Jackson write in the introduction for *"Raw Data" Is an Oxymoron*, 
->"Data need to be imagined as data to exist and function as such, and the imagination of data entails an interpretive base."
-If you are interested in reading more, you can access the ebook here [Raw Data is an Oxymoron](https://tripod.swarthmore.edu/permalink/01TRI_INST/ba5lsr/alma991019036331104921
-)
+- [Theorizing Research Practices we Forgot to Theorize Twenty Years Ago](https://www.jstor.org/stable/10.1525/rep.2014.127.1.64?sid=primo)
+- [Algorithms of Oppression - 16 min video](https://www.youtube.com/watch?v=UXuJ8yQf6dI)
+- Book traces
 
-*In preparation*  
-- Find an Observable notebook that is data-driven and appeals to you. You can always begin in the [explore](https://observablehq.com/explore) section of Observablehq.com but feel free to look elsewhere.
+## Week 7 - November 2: Accessibility
 
-## Week 5: Language of Visualization
+- tbd 
+
+## Week 8 - November 9: Language of Visualization
 
 [![Bertin, Semiology of Graphics. 1983. p. 43.](media/bertin.png)](https://www.historyofinformation.com/detail.php?id=3361)
 
-What are we doing exactly when we render data (or anything) visual or legible?  Public health, natural catastrophe, electoral politics, and social inequality. Chart, map, and graph. Increasingly, our understanding of the world is mediated by dynamic representations of data attempting to model real world phenomena. In the process, what do we gain access to and, oppositely, what is effaced or made invisible?
+Can we move beyond pleasing images representing data to and understand that visualizations are a language in themselves? In other words, rather than just understanding visualizations as representations of data can we understand them as data?
 
-- [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2016): 290–302.](https://ebookcentral.proquest.com/lib/swarthmore/reader.action?docID=4093339&ppg=290)
-- [Mattern, Shannon. "How to Map Nothing." *Places Journal* (March, 2021)](https://placesjournal.org/article/how-to-map-nothing/?cn-reloaded=1)
-- [Daniels, Matt. "The Language of Hip Hop." *The Pudding* (2017).](https://pudding.cool/2017/02/vocabulary/) 
-Take a look at this page and the vizualisation. No need to read it completly. 
-- [Choi, Taeyoon. "Errantic Poetry." from *Poetic Computation*. taeyoonchoi.com](http://taeyoonchoi.com/poetic-computation/errantic-poetry/)
-- *Optional* [D'Ignazio, Catherine and Klein, Lauren. "On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." (chapter draft) In *Data Feminism* (MIT, 2020).](https://bookbook.pubpub.org/pub/8tjbs2x5)
+In this process, what do we gain access to and, oppositely, what is effaced or made invisible?
+
+- [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2016): 290–302.](https://ebookcentral.proquest.com/lib/swarthmore/reader.action?docID=4093339&ppg=290) 
+- [1969 "Mother of All Demos"](https://youtu.be/B6rKUf9DWRI)
+- [Visualizing the Unertainty in Data](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/)
 - *optional in class reading*[Osman, Jenna. from *Motion Studies*. PEN Poetry Series. November 25, 2015.](https://pen.org/from-motion-studies/)
 
-## Week 6: When Computers Were Women: Feminism & Technology
+## Week 9 - November 16: Maps
 
-- [Haraway, Donna. "A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century" in Simians, Cyborgs and Women: The Reinvention of Nature (New York; Routledge, 1991), pp.149-181](https://www.sfu.ca/~decaste/OISE/page2/files/HarawayCyborg.pdf)
-- [Kane, Nancy. "Cyborg Manifesto," Encyclopedia of Gender and Society. (this may help you frame some of the strangeness of the Haraway piece and point out its significance)](https://sk.sagepub.com/reference/gender/n99.xml)
-- [Light, Jennifer. "When Computers Were Women." Technology and Culture.](https://www.jstor.org/stable/25147356)
+- [How to Lie with Maps](https://tripod.swarthmore.edu/permalink/01TRI_INST/1e1odpu/alma991013533059704921) 
+- [How to Map Nothing](https://placesjournal.org/article/how-to-map-nothing/)
 
-## Week 7: Observable + privacy 
+## Week 10 - November 30: Surveillance and embodiment
+
+-  Dark Matters: On the Surveillance of Blackness
+-  [Obfuscation: A User's Guide for Privacy and Protest. Chapter 3: Why Obfuscation is Necessary](https://doi.org/10.7551/mitpress/9780262029735.001.0001)
+
+## Week 11 - December 7: Immersive Technologies
+- [Virtous Virtual Realities](https://journals.sagepub.com/doi/full/10.1177/1470412920906259)
+- [DLFteach Toolkit Volume 2: Lesson Plans on Immersive Pedagogy](https://dlfteach.pubpub.org/dlfteach-toolkit-2)
+- [Make your own avatar](https://readyplayer.me/avatar )
+
+## Week 12 - December 14: Celebration
+
+<!--## Week 7: Observable + privacy 
 
 Is the internet listening? Is the internet listening to everybody? What if, by design, we can never know for sure? This week we will focus on the porous border between technical, social, and personal implications of continuous data collection.
 
