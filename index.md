@@ -18,7 +18,7 @@ Readings:
 - [‘Farewell, Etaoin Shrdlu'](https://www.nytimes.com/video/insider/100000004687429/farewell-etaoin-shrdlu.html)
 - [Binding Media: Print-Digital Literature 1980s-2010s](https://elikaortega.net/projects/1_project/)
 
-## Week 2 - September 21: Do Artifacts Have Politics? 
+## Week 2 - September 21: Do Artifacts Have Politics? + Text
 
 What can things *do*? Considering the perspective of Science and Technology Studies. Are the technologies that we will study neutral? In other words, is the saying: “it depends how you use the tool that matters” universally true or is technology inherently biased?
 
