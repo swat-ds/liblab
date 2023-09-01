@@ -6,7 +6,6 @@ id: home
 
 Now in its eigth, the LibLab Fellows program is an experiment in library-based learning guided by a critical consideration of just what we mean by "the digital." Fellows engage theory and practice of digital scholarship through open lab hours and weekly discussion meetings during the fall semester and spring semester
 
-syllabus in progress....
 
 ## Week 1 - September 14: Introductions and framing
 
@@ -26,13 +25,18 @@ Readings:
 - [Winner, Langdon. "Do Artifacts Have Politics?" from *The Whale and the Reactor* (1986).](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 - [Biss, Eula. "Time and Distance Overcome" from *Notes from No Man's Land* (2009).](https://pubs.lib.uiowa.edu/iowareview/article/16487/galley/124886/view/)
 
+- Letter press demo
 ## Week 3 - September 28: Code + AI
+
+What lies beneath the technologies we use everyday? Investigating the human and computer labor that fuels the web services we rely on. 
 
 - [Hui, Yuk. ChatGPT, or the Eschatology of Machines](https://www.e-flux.com/journal/137/544816/chatgpt-or-the-eschatology-of-machines/)
 - [Dzieza, Josh. AI Is a Lot of Work: As the technology becomes ubiquitous, a vast tasker underclass is emerging — and not going anywhere.](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)
 - [Moderator Mayhem](https://moderatormayhem.engine.is/)
   
 ## Week 4 - October 5: Metadata / Data
+
+Can data be neutral? What are the ethical considerations of collecting and analyzing data? 
 
 Lisa Gitelman and Virginia Jackson write in the introduction for *"Raw Data" Is an Oxymoron*, 
 >"Data need to be imagined as data to exist and function as such, and the imagination of data entails an interpretive base."
@@ -43,7 +47,7 @@ What do you think when you hear the term "raw data"?
 - [D'Ignazio,Catherine & Klein, Lauren. Data Feminism: Chapter 1 The Power Chater](https://doi.org/10.7551/mitpress/11805.001.0001)
 - [Data Feminism reading group](https://datafeminism.io/blog/book/data-feminism-reading-group/)
 
-- Digitization demo
+- Guest speaker: Emily Higgs Kopin, Head of Digital Collections Strategy)
 
 ## Week 5 - October 12: Network + Internet
 ![National ARPA Network Map](media/arpa-network.jpg)
@@ -59,11 +63,12 @@ Before we can go further into networked technologies, we ought to have a startin
 
 - [Underwood, Ted. Theorizing Research Practices we Forgot to Theorize Twenty Years Ago](https://www.jstor.org/stable/10.1525/rep.2014.127.1.64?sid=primo)
 - [Algorithms of Oppression - 16 min video](https://www.youtube.com/watch?v=UXuJ8yQf6dI)
-- Book traces
+- [Postcard from the Volcano: On the Future of the Library Print Collections](https://www.jstor.org/stable/j.ctv16qjxqm.9)
 
 ## Week 7 - November 2: Accessibility
+Can we democratize knowledge? How can we make information more accessible for everyone?
 
-- tbd 
+- Guest speakers: Jessica Brangiel, Electronic Resources Librarian & Jenn Moore, Course Content Accessibility Manager
 
 ## Week 8 - November 9: Language of Visualization
 
@@ -78,7 +83,10 @@ In this process, what do we gain access to and, oppositely, what is effaced or m
 - [Yau, Nathan. Visualizing the Unertainty in Data](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/)
 - *optional in class reading*[Osman, Jenna. from *Motion Studies*. PEN Poetry Series. November 25, 2015.](https://pen.org/from-motion-studies/)
 
+- Guest speaker: James Truitt, Digital Archivist
+
 ## Week 9 - November 16: Maps
+What are the politics of maps? How does the platform used to create and provide access to geographic information shape our understanding of space? 
 
 - [How to Lie with Maps](https://tripod.swarthmore.edu/permalink/01TRI_INST/1e1odpu/alma991013533059704921) 
 - [How to Map Nothing](https://placesjournal.org/article/how-to-map-nothing/)
@@ -89,6 +97,8 @@ In this process, what do we gain access to and, oppositely, what is effaced or m
 -  [Brunton, Finn  & Nissenbaum, Helen. Obfuscation: A User's Guide for Privacy and Protest. Chapter 3: Why Obfuscation is Necessary](https://doi.org/10.7551/mitpress/9780262029735.001.0001)
 
 ## Week 11 - December 7: Immersive Technologies
+What role do emerging technologies play in higher education?
+
 - [Nakamura, Lisa. Virtous Virtual Realities](https://journals.sagepub.com/doi/full/10.1177/1470412920906259)
 - [DLFteach Toolkit Volume 2: Lesson Plans on Immersive Pedagogy](https://dlfteach.pubpub.org/dlfteach-toolkit-2)
 - [Make your own avatar](https://readyplayer.me/avatar )
