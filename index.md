@@ -56,6 +56,7 @@ Before we can go further into networked technologies, we ought to have a startin
 
 - [Visions for the Future Internet](https://findingctrl.nesta.org.uk/) A collection of essays, short stories, poetry and art work reflecting on the question of *what is the internet* and its history. As you browse the site focus on one section (Timeline, Enter, Power, Shift, Delete, ALT, Escape) that most interests you. Come prepared to share your thoughts and opinions
 - [Dye, Michaelanne & Nemer, David & Kumar, Neha & Bruckman, Amy. If it Rains, Ask Grandma to Disconnect the Nano: Maintenance & Care in Havana's StreetNet](https://dl.acm.org/doi/abs/10.1145/3359289)
+
 -[Jackson, Steve. Rethinking Repair](https://sjackson.infosci.cornell.edu/Jackson_RethinkingRepair(MITPress2014).pdf)
 
 - Doc-Humanity Revolution: What is the web. 
