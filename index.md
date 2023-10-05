@@ -56,10 +56,13 @@ Before we can go further into networked technologies, we ought to have a startin
 
 - [Visions for the Future Internet](https://findingctrl.nesta.org.uk/) A collection of essays, short stories, poetry and art work reflecting on the question of *what is the internet* and its history. As you browse the site focus on one section (Timeline, Enter, Power, Shift, Delete, ALT, Escape) that most interests you. Come prepared to share your thoughts and opinions
 - [Dye, Michaelanne & Nemer, David & Kumar, Neha & Bruckman, Amy. If it Rains, Ask Grandma to Disconnect the Nano: Maintenance & Care in Havana's StreetNet](https://dl.acm.org/doi/abs/10.1145/3359289)
+-[Jackson, Steve. Rethinking Repair](https://sjackson.infosci.cornell.edu/Jackson_RethinkingRepair(MITPress2014).pdf)
 
 - Doc-Humanity Revolution: What is the web. 
 
 ## Week 6 - October 26: Search + Alogrithms
+
+How is information organized and how can we use those systems to find what we are looking for?
 
 - [Underwood, Ted. Theorizing Research Practices we Forgot to Theorize Twenty Years Ago](https://www.jstor.org/stable/10.1525/rep.2014.127.1.64?sid=primo)
 - [Algorithms of Oppression - 16 min video](https://www.youtube.com/watch?v=UXuJ8yQf6dI)
