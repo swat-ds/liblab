@@ -55,9 +55,14 @@ What do you think when you hear the term "raw data"?
 Before we can go further into networked technologies, we ought to have a starting point - What do we mean when we say *internet*? What makes it different from other forms of information technology?
 
 - [Visions for the Future Internet](https://findingctrl.nesta.org.uk/) A collection of essays, short stories, poetry and art work reflecting on the question of *what is the internet* and its history. As you browse the site focus on one section (Timeline, Enter, Power, Shift, Delete, ALT, Escape) that most interests you. Come prepared to share your thoughts and opinions
+
+- [Abbate, Janet. Government, Business, and the Making of the Internet](https://doi-org.proxy.swarthmore.edu/10.2307/3116559)
+
+Optional:
+
 - [Dye, Michaelanne & Nemer, David & Kumar, Neha & Bruckman, Amy. If it Rains, Ask Grandma to Disconnect the Nano: Maintenance & Care in Havana's StreetNet](https://dl.acm.org/doi/abs/10.1145/3359289)
 
--[Jackson, Steve. Rethinking Repair](https://sjackson.infosci.cornell.edu/Jackson_RethinkingRepair(MITPress2014).pdf)
+- [Jackson, Steve. Rethinking Repair](https://sjackson.infosci.cornell.edu/Jackson_RethinkingRepair(MITPress2014).pdf)
 
 - Doc-Humanity Revolution: What is the web. 
 
