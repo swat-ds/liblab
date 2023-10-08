@@ -56,7 +56,7 @@ Before we can go further into networked technologies, we ought to have a startin
 
 - [Visions for the Future Internet](https://findingctrl.nesta.org.uk/) A collection of essays, short stories, poetry and art work reflecting on the question of *what is the internet* and its history. As you browse the site focus on one section (Timeline, Enter, Power, Shift, Delete, ALT, Escape) that most interests you. Come prepared to share your thoughts and opinions
 
-- [Abbate, Janet. Government, Business, and the Making of the Internet](https://doi-org.proxy.swarthmore.edu/10.2307/3116559)
+- [Abbate, Janet. Government, Business, and the Making of the Internet](https://www.jstor.org/stable/3116559)
 
 Optional:
 
