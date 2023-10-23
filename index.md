@@ -71,7 +71,9 @@ Optional:
 How is information organized and how can we use those systems to find what we are looking for?
 
 - [Underwood, Ted. Theorizing Research Practices we Forgot to Theorize Twenty Years Ago](https://www.jstor.org/stable/10.1525/rep.2014.127.1.64?sid=primo)
+
 - [Algorithms of Oppression - 16 min video](https://www.youtube.com/watch?v=UXuJ8yQf6dI)
+
 - [Postcard from the Volcano: On the Future of the Library Print Collections](https://www.jstor.org/stable/j.ctv16qjxqm.9)
 
 - Guest speaker: Dr. Stauffer
