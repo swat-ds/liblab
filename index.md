@@ -69,8 +69,16 @@ How is information organized and how can we use those systems to find what we ar
 - [Algorithms of Oppression - 16 min video](https://www.youtube.com/watch?v=UXuJ8yQf6dI)
 - [Postcard from the Volcano: On the Future of the Library Print Collections](https://www.jstor.org/stable/j.ctv16qjxqm.9)
 
+- Guest speaker: Dr. Stauffer
+
 ## Week 7 - November 2: Accessibility
 Can we democratize knowledge? How can we make information more accessible for everyone?
+
+- [Clark, Jasmine. A coordinated effort: Cultural and policy requirements for digital accessibility](https://www.tandfonline.com/doi/full/10.1080/10691316.2021.1932659)
+
+- [Imersive Reader. Video. Watch first 10 minutes](https://learn.microsoft.com/en-us/training/educator-center/product-guides/immersive-reader/)
+
+- HTML/CSS demo. Static vs Dynaic website
 
 - Guest speakers: Jessica Brangiel, Electronic Resources Librarian & Jenn Moore, Course Content Accessibility Manager
 
