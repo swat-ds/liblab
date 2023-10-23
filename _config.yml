@@ -156,7 +156,6 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jemoji
   - github-pages
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor, html-example]
