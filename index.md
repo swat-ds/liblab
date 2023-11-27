@@ -111,9 +111,9 @@ What are the politics of maps? How does the platform used to create and provide 
 - [How to Map Nothing](https://placesjournal.org/article/how-to-map-nothing/)
 
 ## Week 10 - November 30: Surveillance and embodiment
-
--  Dark Matters: On the Surveillance of Blackness
--  [Brunton, Finn  & Nissenbaum, Helen. Obfuscation: A User's Guide for Privacy and Protest. Chapter 3: Why Obfuscation is Necessary](https://doi.org/10.7551/mitpress/9780262029735.001.0001)
+Do we live in a survaillance culture? What are the privacy tradeoffs you make to use the tools you like? More importantly, do you know the liniage of survilance?
+-  [Browne, Simone. Dark Matters: On the Surveillance of Blackness. Introduction and Ch. 1](https://tripod.swarthmore.edu/permalink/01TRI_INST/ba5lsr/alma991018837042204921)
+-  [Brunton, Finn  & Nissenbaum, Helen. Obfuscation: A User's Guide for Privacy and Protest. Chapter 3: Why Obfuscation is Necessary](https://tripod.swarthmore.edu/permalink/01TRI_INST/ba5lsr/alma991018845263404921)
 
 ## Week 11 - December 7: Immersive Technologies
 What role do emerging technologies play in higher education?
