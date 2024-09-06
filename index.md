@@ -64,7 +64,6 @@ What do you think when you hear the term "raw data"?
 
 [Kirschenbaum, Matthew. Prepare for the Textpocalypse](https://www.theatlantic.com/technology/archive/2023/03/ai-chatgpt-writing-language-models/673318/)
 
-
 ## Special lecture 
 "10 Things I’m Not Going to Talk about in this Talk about Artificial Intelligence"
 
