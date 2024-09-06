@@ -101,7 +101,8 @@ What role do emerging technologies play in higher education?
 
 ## Week 11 - December 4: Surveillance and embodiment
 Do we live in a survaillance culture? What are the privacy tradeoffs you make to use the tools you like? More importantly, do you know the liniage of survilance?
-<!-- -  [Browne, Simone. Dark Matters: On the Surveillance of Blackness. Introduction and Ch. 1](https://tripod.swarthmore.edu/permalink/01TRI_INST/ba5lsr/alma991018837042204921)
+
+<!--  [Browne, Simone. Dark Matters: On the Surveillance of Blackness. Introduction and Ch. 1](https://tripod.swarthmore.edu/permalink/01TRI_INST/ba5lsr/alma991018837042204921)
 -  [Brunton, Finn  & Nissenbaum, Helen. Obfuscation: A User's Guide for Privacy and Protest. Chapter 3: Why Obfuscation is Necessary](https://tripod.swarthmore.edu/permalink/01TRI_INST/ba5lsr/alma991018845263404921)-->
 
 ## Week 12 - December 11: Celebration + pitches
