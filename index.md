@@ -58,7 +58,7 @@ What do you think when you hear the term "raw data"?
 - [D'Ignazio,Catherine & Klein, Lauren. Data Feminism: Chapter 1 The Power Chater](https://doi.org/10.7551/mitpress/11805.001.0001)
 - [Data Feminism reading group](https://datafeminism.io/blog/book/data-feminism-reading-group/) -->
 
- - Guest speaker: Emily Higgs Kopin, Head of Digital Collections Strategy)-->
+ - Guest speaker: Emily Higgs Kopin, Head of Digital Collections Strategy
 
 ## Week 5 - AI and the Textpocalypse
 
