@@ -9,3 +9,5 @@ gem 'jekyll-sitemap'
 gem 'jekyll-feed'
 gem 'json'
 gem 'github-pages'
+
+gem "webrick", "~> 1.8"
