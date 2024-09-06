@@ -37,7 +37,9 @@ Readings:
 
 This week we dive deeper into Github by utilizing a service that allows us to create static websites. 
 
-## Week 4 - October 2: AI 
+## Week 4 - October 2: Metadata / Data
+
+Can data be neutral? What are the ethical considerations of collecting and analyzing data? 
 
 <!-- - [Hui, Yuk. ChatGPT, or the Eschatology of Machines](https://www.e-flux.com/journal/137/544816/chatgpt-or-the-eschatology-of-machines/)
 - [Dzieza, Josh. AI Is a Lot of Work: As the technology becomes ubiquitous, a vast tasker underclass is emerging — and not going anywhere.](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)
@@ -58,9 +60,10 @@ What do you think when you hear the term "raw data"?
 
  - Guest speaker: Emily Higgs Kopin, Head of Digital Collections Strategy)-->
 
-## Week 5 - TBD 
+## Week 5 - AI and the Textpocalypse
 
-Our meeting this week will possibly be to attend the lecture described below. TBD
+[Kirschenbaum, Matthew. Prepare for the Textpocalypse](https://www.theatlantic.com/technology/archive/2023/03/ai-chatgpt-writing-language-models/673318/)
+
 
 ## Special lecture 
 "10 Things I’m Not Going to Talk about in this Talk about Artificial Intelligence"
