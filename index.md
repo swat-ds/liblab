@@ -43,7 +43,7 @@ This week we dive deeper into Github by utilizing a service that allows us to cr
 - [Dzieza, Josh. AI Is a Lot of Work: As the technology becomes ubiquitous, a vast tasker underclass is emerging — and not going anywhere.](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)
 - [Moderator Mayhem](https://moderatormayhem.engine.is/) -->
   
-## Week 5 - October 16: Metadata / Data
+<!--## Week 5 - October 9: Metadata / Data
 
 Can data be neutral? What are the ethical considerations of collecting and analyzing data? 
 
@@ -56,7 +56,22 @@ What do you think when you hear the term "raw data"?
 - [D'Ignazio,Catherine & Klein, Lauren. Data Feminism: Chapter 1 The Power Chater](https://doi.org/10.7551/mitpress/11805.001.0001)
 - [Data Feminism reading group](https://datafeminism.io/blog/book/data-feminism-reading-group/) -->
 
-- Guest speaker: Emily Higgs Kopin, Head of Digital Collections Strategy)
+ - Guest speaker: Emily Higgs Kopin, Head of Digital Collections Strategy)-->
+
+## Week 5 - TBD 
+
+Our meeting this week will possibly be to attend the lecture described below. TBD
+
+## Special lecture 
+"10 Things I’m Not Going to Talk about in this Talk about Artificial Intelligence"
+
+by
+*Matthew Kirschenbaum, Distinguished University Professor, University of Maryland*
+
+**When**: 4:15 pm, October 9
+
+**Where** : Cunniff Lecture Hall, Science Center 199
+
 
 ## Week 6 - October 23: Accessibility
 Can we democratize knowledge? How can we make information more accessible for everyone?
@@ -69,7 +84,7 @@ Can we democratize knowledge? How can we make information more accessible for ev
 
 - Guest speakers: Jessica Brangiel, Electronic Resources Librarian & Jenn Moore, Course Content Accessibility Manager -->
 
-## Week 67 - October 30: Language of Visualization + Open refine
+## Week 7 - October 30: Language of Visualization + Open refine
 
 [![Bertin, Semiology of Graphics. 1983. p. 43.](media/bertin.png)](https://www.historyofinformation.com/detail.php?id=3361)
 
