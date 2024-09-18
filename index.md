@@ -75,16 +75,11 @@ by
 **Where** : Cunniff Lecture Hall, Science Center 199
 
 
-## Week 6 - October 23: Accessibility
-Can we democratize knowledge? How can we make information more accessible for everyone?
+## Week 6 - October 23: Maps
+What are the politics of maps? How does the platform used to create and provide access to geographic information shape our understanding of space? 
 
-<!--- [Clark, Jasmine. A coordinated effort: Cultural and policy requirements for digital accessibility](https://www.tandfonline.com/doi/full/10.1080/10691316.2021.1932659)
-
-- [Imersive Reader. Video. Watch first 10 minutes](https://learn.microsoft.com/en-us/training/educator-center/product-guides/immersive-reader/)
-
-- HTML/CSS demo. Static vs Dynaic website
-
-- Guest speakers: Jessica Brangiel, Electronic Resources Librarian & Jenn Moore, Course Content Accessibility Manager -->
+<!-- - [How to Lie with Maps](https://tripod.swarthmore.edu/permalink/01TRI_INST/1e1odpu/alma991013533059704921) 
+- [How to Map Nothing](https://placesjournal.org/article/how-to-map-nothing/)-->
 
 ## Week 7 - October 30: Language of Visualization + Open refine
 
@@ -101,11 +96,16 @@ In this process, what do we gain access to and, oppositely, what is effaced or m
 
 - Guest speaker: James Truitt, Digital Archivist
 
-## Week 8 - November 6: Maps
-What are the politics of maps? How does the platform used to create and provide access to geographic information shape our understanding of space? 
+## Week 8 - November 6: Accessibility
+Can we democratize knowledge? How can we make information more accessible for everyone?
 
-<!-- - [How to Lie with Maps](https://tripod.swarthmore.edu/permalink/01TRI_INST/1e1odpu/alma991013533059704921) 
-- [How to Map Nothing](https://placesjournal.org/article/how-to-map-nothing/)-->
+<!--- [Clark, Jasmine. A coordinated effort: Cultural and policy requirements for digital accessibility](https://www.tandfonline.com/doi/full/10.1080/10691316.2021.1932659)
+
+- [Imersive Reader. Video. Watch first 10 minutes](https://learn.microsoft.com/en-us/training/educator-center/product-guides/immersive-reader/)
+
+- HTML/CSS demo. Static vs Dynaic website
+
+- Guest speakers: Jessica Brangiel, Electronic Resources Librarian & Jenn Moore, Course Content Accessibility Manager -->
 
 ## Week 9 - November 13: Letterpress
 
