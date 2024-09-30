@@ -35,7 +35,11 @@ Readings:
 - 
 ## Week 3 - September 25: Github Pages + HTML/CSS/MARKDOWN
 
-This week we dive deeper into Github by utilizing a service that allows us to create static websites. 
+This week we dive deeper into Github by utilizing a service that allows us to create static websites. We will also look further into how we arrive at the internet we have now.
+
+- [Abbate, Janet. "Government, Business, and the Making of the Internet](https://www.jstor.org/stable/3116559)
+- [Marx,Paris. "Reconnected: Decentralizing the internet alone won’t lift it above politics or save it from corporate co-optation](https://reallifemag.com/reconnected/)
+
 
 ## Week 4 - October 2: Metadata / Data + Collection Builder
 
