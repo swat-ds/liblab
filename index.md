@@ -37,9 +37,13 @@ Readings:
 
 This week we dive deeper into Github by utilizing a service that allows us to create static websites. 
 
-## Week 4 - October 2: Metadata / Data
+## Week 4 - October 2: Metadata / Data + Collection Builder
 
-Can data be neutral? What are the ethical considerations of collecting and analyzing data? 
+Can data be neutral? What are the ethical considerations of collecting and analyzing data? We will also learn [Collection Builder](https://collectionbuilder.github.io/)
+
+[Why don’t archivists digitize everything?](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/)
+
+ - Guest speaker: Emily Higgs Kopin, Head of Digital Collections Strategy
 
 <!-- - [Hui, Yuk. ChatGPT, or the Eschatology of Machines](https://www.e-flux.com/journal/137/544816/chatgpt-or-the-eschatology-of-machines/)
 - [Dzieza, Josh. AI Is a Lot of Work: As the technology becomes ubiquitous, a vast tasker underclass is emerging — and not going anywhere.](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)
@@ -58,7 +62,6 @@ What do you think when you hear the term "raw data"?
 - [D'Ignazio,Catherine & Klein, Lauren. Data Feminism: Chapter 1 The Power Chater](https://doi.org/10.7551/mitpress/11805.001.0001)
 - [Data Feminism reading group](https://datafeminism.io/blog/book/data-feminism-reading-group/) -->
 
- - Guest speaker: Emily Higgs Kopin, Head of Digital Collections Strategy
 
 ## Week 5 - AI and the Textpocalypse
 
