@@ -85,7 +85,7 @@ by
 ## Week 6 - October 23: Maps
 What are the politics of maps? How does the platform used to create and provide access to geographic information shape our understanding of space? Can you map *nothing*?
 
-[How to Lie with Maps](https://tripod.swarthmore.edu/permalink/01TRI_INST/1e1odpu/alma991013533059704921) 
+- [How to Lie with Maps](https://tripod.swarthmore.edu/permalink/01TRI_INST/1e1odpu/alma991013533059704921) 
 - [How to Map Nothing](https://placesjournal.org/article/how-to-map-nothing/)
 
 ## Week 7 - October 30: Language of Visualization + Open refine
