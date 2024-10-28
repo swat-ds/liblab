@@ -88,7 +88,7 @@ What are the politics of maps? How does the platform used to create and provide 
 <!-- - [How to Lie with Maps](https://tripod.swarthmore.edu/permalink/01TRI_INST/1e1odpu/alma991013533059704921) 
 - [How to Map Nothing](https://placesjournal.org/article/how-to-map-nothing/)-->
 
-## Week 7 - October 30: Language of Visualization + Open refine
+## Week 7 - October 30: Language of Visualization + Collection Builder
 
 [![Bertin, Semiology of Graphics. 1983. p. 43.](media/bertin.png)](https://www.historyofinformation.com/detail.php?id=3361)
 
@@ -96,6 +96,7 @@ Can we move beyond pleasing images representing data to and understand that visu
 
 In this process, what do we gain access to and, oppositely, what is effaced or made invisible?
 
+- [ Hadley Wickham. "Tidy Data](https://www.jstatsoft.org/article/view/v059i10)
 <!-- - [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2016): 290–302.](https://ebookcentral.proquest.com/lib/swarthmore/reader.action?docID=4093339&ppg=290) 
 - [1969 "Mother of All Demos"](https://youtu.be/B6rKUf9DWRI)
 - [Yau, Nathan. Visualizing the Unertainty in Data](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/)
