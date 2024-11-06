@@ -107,13 +107,13 @@ In this process, what do we gain access to and, oppositely, what is effaced or m
 ## Week 8 - November 6: Accessibility
 Can we democratize knowledge? How can we make information more accessible for everyone?
 
-<!--- [Clark, Jasmine. A coordinated effort: Cultural and policy requirements for digital accessibility](https://www.tandfonline.com/doi/full/10.1080/10691316.2021.1932659)
+- [Clark, Jasmine. A coordinated effort: Cultural and policy requirements for digital accessibility](https://www.tandfonline.com/doi/full/10.1080/10691316.2021.1932659)
 
 - [Imersive Reader. Video. Watch first 10 minutes](https://learn.microsoft.com/en-us/training/educator-center/product-guides/immersive-reader/)
 
-- HTML/CSS demo. Static vs Dynaic website
+<!--- HTML/CSS demo. Static vs Dynaic website -->
 
-- Guest speakers: Jessica Brangiel, Electronic Resources Librarian & Jenn Moore, Course Content Accessibility Manager -->
+- Guest speakers: Jessica Brangiel, Electronic Resources Librarian & Jenn Moore, Course Content Accessibility Manager 
 
 ## Week 9 - November 13: Letterpress
 
