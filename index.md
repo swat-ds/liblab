@@ -1,13 +1,28 @@
 ---
-title: 2024 Lib/Lab Fellows Syllabus
+title: 2025 Lib/Lab Fellows Syllabus
 layout: page
 id: home
 ---
 
-Now in its tenth year, the LibLab Fellows program is an experiment in library-based learning guided by a critical consideration of just what we mean by "the digital." Fellows engage theory and practice of digital scholarship through open lab hours and weekly discussion meetings during the fall semester and spring semester
+Now in its eleventh year, the LibLab Fellows program is an experiment in library-based learning guided by a critical consideration of just what we mean by "the digital." Fellows engage theory and practice of digital scholarship through open lab hours and weekly discussion meetings during the fall semester and spring semester
 
 
-## Week 1 - September 11: Introductions, Framing & The Infrastructure of the Internet
+## Week 1 - September 11: Liz Losh (special guest)
+
+This week, in lieu of meeting, you will be asked to pick one of the two events below. 
+
+- Sept 11 4:30 Sci 101 Public Lecture
+- Sept 12 10am LibLab Workshop
+
+“AI Literacy from Prompt Engineering to Electronic Literature”
+In an executive order issued in April, the Trump administration championed "AI literacy" as a goal for K-12 education. However, the literacy imagined in this document appears to be functional in nature rather than critical or creative, intended to approach new technologies instrumentally rather than question their premises or design. This talk looks at AI literacy initiatives in higher education and the work of task forces of the Modern Language Association to argue for more capacious approaches to curricular reform. It also examines a growing literature about “prompt engineering" that promises to impart career skills. In imagining a greater role for humanities scholarship in AI literacy, it discusses how electronic literature has used the dynamic tension of prompting to simultaneously reveal and conceal power relations. 
+
+**Liz Losh is the Duane A. and Virginia S. Dittman Professor of American Studies and English with a specialization in New Media Ecologies at William & Mary, where she also directs the Equality Lab. She is the is the author of Selfie Democracy: The New Digital Politics of Disruption and Insurrection (MIT Press, 2022) and The War on Learning: Gaining Ground in the Digital University (MIT Press, 2014) among other books and is currently co-chairing the Modern Language Association Task Force on Generative AI Initiatives.** 
+
+Community members who wish to join Losh and the AI Inquiry group for a workshop from 10 -11:30am on Friday, September 12 are invited to [express interest here](https://docs.google.com/forms/d/e/1FAIpQLSeghSmZb1oKTCA7Ex1xgs6kYONvSAf0IdBoNesi6z-Ha6ftkQ/viewform); workshop space is limited.
+
+
+## Week 2 - September 17: Introductions, Framing & The Infrastructure of the Internet
 
 
 An introduction to the terrain + the internet and its modalities. This week, we introduce the fellowship and begin by looking at what do we mean when we say *internet*? What makes it different from other forms of information technology and where can we find it? The internet, the idea and its physical infrastructure, permeates every hour of our days. Understanding its history and the metaphors we use to give shape to it, become a daily endevor, so as to continue to have a critical eye towards it.
@@ -17,13 +32,11 @@ Reflection: As we move from the physical to the digital. What new information is
 
 Readings:
 - [‘As We May Think by Vannevar Bush'](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
-    - When was this article written? What does the Memex anticipate? What are other concepts still applicable today?
-- [Visions for the Future of the Internet](https://findingctrl.nesta.org.uk/)
+- When was this article written? What does the Memex anticipate? What are other concepts still applicable today?
+- [Abbate, Janet. "Government, Business, and the Making of the Internet](https://www.jstor.org/stable/3116559)
 
-Optional:
-- [The Machine Stops by E.M. Foster](https://www.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Machine_stops.pdf)
 
-## Week 2 - September 18: Do Artifacts Have Politics? + Github
+## Week 3 - September 24: Do Artifacts Have Politics? + Github pages + HTML/CSS/MARKDOWN
 
 What can things *do*? Considering the perspective of Science and Technology Studies. Are the technologies that we will study neutral? In other words, is the saying: “it depends how you use the tool that matters” universally true or is technology inherently biased?
 
@@ -32,22 +45,20 @@ Readings:
 - [Biss, Eula. "Time and Distance Overcome" from *Notes from No Man's Land* (2009).](https://pubs.lib.uiowa.edu/iowareview/article/16487/galley/124886/view/)
 
 - Introduction to Github + its history
-- 
-## Week 3 - September 25: Github Pages + HTML/CSS/MARKDOWN
 
-This week we dive deeper into Github by utilizing a service that allows us to create static websites. We will also look further into how we arrive at the internet we have now.
-
-- [Abbate, Janet. "Government, Business, and the Making of the Internet](https://www.jstor.org/stable/3116559)
-- [Marx,Paris. "Reconnected: Decentralizing the internet alone won’t lift it above politics or save it from corporate co-optation](https://reallifemag.com/reconnected/)
-
-
-## Week 4 - October 2: Metadata / Data + Collection Builder
+## Week 4 - October 1: Metadata / Data + Collection Builder
 
 Can data be neutral? What are the ethical considerations of collecting and analyzing data? We will also learn [Collection Builder](https://collectionbuilder.github.io/)
 
 [Why don’t archivists digitize everything?](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/)
 
  - Guest speaker: Emily Higgs Kopin, Head of Digital Collections Strategy
+
+## Week 5 - October 8: Maps
+What are the politics of maps? How does the platform used to create and provide access to geographic information shape our understanding of space? Can you map *nothing*?
+
+- [How to Lie with Maps](https://tripod.swarthmore.edu/permalink/01TRI_INST/1e1odpu/alma991013533059704921) 
+- [How to Map Nothing](https://placesjournal.org/article/how-to-map-nothing/)
 
 <!-- - [Hui, Yuk. ChatGPT, or the Eschatology of Machines](https://www.e-flux.com/journal/137/544816/chatgpt-or-the-eschatology-of-machines/)
 - [Dzieza, Josh. AI Is a Lot of Work: As the technology becomes ubiquitous, a vast tasker underclass is emerging — and not going anywhere.](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)
@@ -66,29 +77,14 @@ What do you think when you hear the term "raw data"?
 - [D'Ignazio,Catherine & Klein, Lauren. Data Feminism: Chapter 1 The Power Chater](https://doi.org/10.7551/mitpress/11805.001.0001)
 - [Data Feminism reading group](https://datafeminism.io/blog/book/data-feminism-reading-group/) -->
 
+## FALL BREAK October 15
 
-## Week 5 - AI and the Textpocalypse
+## Week 6 - October 22 AI and the Textpocalypse
 
 [Kirschenbaum, Matthew. Prepare for the Textpocalypse](https://www.theatlantic.com/technology/archive/2023/03/ai-chatgpt-writing-language-models/673318/)
 
-## Special lecture 
-"10 Things I’m Not Going to Talk about in this Talk about Artificial Intelligence"
 
-by
-*Matthew Kirschenbaum, Distinguished University Professor, University of Maryland*
-
-**When**: 4:15 pm, October 9
-
-**Where** : Cunniff Lecture Hall, Science Center 199
-
-
-## Week 6 - October 23: Maps
-What are the politics of maps? How does the platform used to create and provide access to geographic information shape our understanding of space? Can you map *nothing*?
-
-- [How to Lie with Maps](https://tripod.swarthmore.edu/permalink/01TRI_INST/1e1odpu/alma991013533059704921) 
-- [How to Map Nothing](https://placesjournal.org/article/how-to-map-nothing/)
-
-## Week 7 - October 30: Language of Visualization + Collection Builder
+## Week 7 - October 29: Language of Visualization + Collection Builder
 
 [![Bertin, Semiology of Graphics. 1983. p. 43.](media/bertin.png)](https://www.historyofinformation.com/detail.php?id=3361)
 
@@ -104,7 +100,7 @@ In this process, what do we gain access to and, oppositely, what is effaced or m
 
 - Guest speaker: James Truitt, Digital Archivist
 
-## Week 8 - November 6: Accessibility
+## Week 8 - November 5: Accessibility
 Can we democratize knowledge? How can we make information more accessible for everyone?
 
 - [Clark, Jasmine. A coordinated effort: Cultural and policy requirements for digital accessibility](https://www.tandfonline.com/doi/full/10.1080/10691316.2021.1932659)
@@ -115,19 +111,23 @@ Can we democratize knowledge? How can we make information more accessible for ev
 
 - Guest speakers: Jessica Brangiel, Electronic Resources Librarian & Jenn Moore, Course Content Accessibility Manager 
 
-## Week 9 - November 13: Letterpress
+## Week 9 - November 12: Letterpress
 
-## Week 10 - November 20: Immersive Technologies
+- [‘Farewell, Etaoin Shrdlu’](https://www.nytimes.com/video/insider/100000004687429/farewell-etaoin-shrdlu.html)
+
+## Week 10 - November 19: Immersive Technologies
 What role do emerging technologies play in higher education?
 
-<!-- - [Nakamura, Lisa. Virtous Virtual Realities](https://journals.sagepub.com/doi/full/10.1177/1470412920906259)
+[Nakamura, Lisa. Virtous Virtual Realities](https://journals.sagepub.com/doi/full/10.1177/1470412920906259)
 - [DLFteach Toolkit Volume 2: Lesson Plans on Immersive Pedagogy](https://dlfteach.pubpub.org/dlfteach-toolkit-2)
-- [Make your own avatar](https://readyplayer.me/avatar )-->
 
-## Week 11 - December 4: Surveillance and embodiment
+
+## NOVEMBER 26th No Cass
+
+## Week 11 - December 3: Surveillance and embodiment
 Do we live in a survaillance culture? What are the privacy tradeoffs you make to use the tools you like? More importantly, do you know the liniage of survilance?
 
-<!--  [Browne, Simone. Dark Matters: On the Surveillance of Blackness. Introduction and Ch. 1](https://tripod.swarthmore.edu/permalink/01TRI_INST/ba5lsr/alma991018837042204921)
--  [Brunton, Finn  & Nissenbaum, Helen. Obfuscation: A User's Guide for Privacy and Protest. Chapter 3: Why Obfuscation is Necessary](https://tripod.swarthmore.edu/permalink/01TRI_INST/ba5lsr/alma991018845263404921)-->
+[Browne, Simone. Dark Matters: On the Surveillance of Blackness. Introduction and Ch. 1](https://tripod.swarthmore.edu/permalink/01TRI_INST/ba5lsr/alma991018837042204921)
+-  [Brunton, Finn  & Nissenbaum, Helen. Obfuscation: A User's Guide for Privacy and Protest. Chapter 3: Why Obfuscation is Necessary](https://tripod.swarthmore.edu/permalink/01TRI_INST/ba5lsr/alma991018845263404921)
 
-## Week 12 - December 11: Celebration + pitches
+## Week 12 - December 10: Celebration + pitches
