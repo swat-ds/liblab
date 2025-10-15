@@ -95,9 +95,7 @@ In this process, what do we gain access to and, oppositely, what is effaced or m
 - [Hadley Wickham. Tidy Data](https://www.jstatsoft.org/article/view/v059i10)
 - [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2016): 290–302.](https://ebookcentral.proquest.com/lib/swarthmore/reader.action?docID=4093339&ppg=290) 
 <!--[1969 "Mother of All Demos"](https://youtu.be/B6rKUf9DWRI)-->
-<!--[Yau, Nathan. Visualizing the Unertainty in Data](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/)
-- *optional in class reading*[Osman, Jenna. from *Motion Studies*. PEN Poetry Series. November 25, 2015.](https://pen.org/from-motion-studies/)-->
-
+<!--[Yau, Nathan. Visualizing the Unertainty in Data](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/)-->
 - Guest speaker: James Truitt, Digital Archivist
 
 ## Week 8 - November 5: Accessibility
