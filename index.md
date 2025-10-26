@@ -93,7 +93,7 @@ Can we move beyond pleasing images representing data to and understand that visu
 In this process, what do we gain access to and, oppositely, what is effaced or made invisible?
 
 - [Hadley Wickham. Tidy Data](https://www.jstatsoft.org/article/view/v059i10)
-- [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2016): 290–302.](https://ebookcentral.proquest.com/lib/swarthmore/reader.action?docID=4093339&ppg=290) 
+- [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2016): 290–302.](https://ebookcentral.proquest.com/lib/swarthmore/reader.action?docID=4093339&ppg=347&c=RVBVQg) 
 <!--[1969 "Mother of All Demos"](https://youtu.be/B6rKUf9DWRI)-->
 <!--[Yau, Nathan. Visualizing the Unertainty in Data](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/)-->
 - Guest speaker: James Truitt, Digital Archivist
