@@ -1,28 +1,13 @@
 ---
-title: 2025 Lib/Lab Fellows Syllabus
+title: 2026 Lib/Lab Fellows Syllabus
 layout: page
 id: home
 ---
 
-Now in its eleventh year, the LibLab Fellows program is an experiment in library-based learning guided by a critical consideration of just what we mean by "the digital." Fellows engage theory and practice of digital scholarship through open lab hours and weekly discussion meetings during the fall semester and spring semester
+Now in its twelveth year, the LibLab Fellows program is an experiment in library-based learning guided by a critical consideration of just what we mean by "the digital." Fellows engage theory and practice of digital scholarship through open lab hours and weekly discussion meetings during the fall semester and spring semester
 
 
-## Week 1 - September 11: Liz Losh (special guest)
-
-This week, in lieu of meeting, you will be asked to pick one of the two events below. 
-
-- Sept 11 4:30 Sci 101 Public Lecture
-- Sept 12 10am LibLab Workshop
-
-“AI Literacy from Prompt Engineering to Electronic Literature”
-In an executive order issued in April, the Trump administration championed "AI literacy" as a goal for K-12 education. However, the literacy imagined in this document appears to be functional in nature rather than critical or creative, intended to approach new technologies instrumentally rather than question their premises or design. This talk looks at AI literacy initiatives in higher education and the work of task forces of the Modern Language Association to argue for more capacious approaches to curricular reform. It also examines a growing literature about “prompt engineering" that promises to impart career skills. In imagining a greater role for humanities scholarship in AI literacy, it discusses how electronic literature has used the dynamic tension of prompting to simultaneously reveal and conceal power relations. 
-
-**Liz Losh is the Duane A. and Virginia S. Dittman Professor of American Studies and English with a specialization in New Media Ecologies at William & Mary, where she also directs the Equality Lab. She is the is the author of Selfie Democracy: The New Digital Politics of Disruption and Insurrection (MIT Press, 2022) and The War on Learning: Gaining Ground in the Digital University (MIT Press, 2014) among other books and is currently co-chairing the Modern Language Association Task Force on Generative AI Initiatives.** 
-
-Community members who wish to join Losh and the AI Inquiry group for a workshop from 10 -11:30am on Friday, September 12 are invited to [express interest here](https://docs.google.com/forms/d/e/1FAIpQLSeghSmZb1oKTCA7Ex1xgs6kYONvSAf0IdBoNesi6z-Ha6ftkQ/viewform); workshop space is limited.
-
-
-## Week 2 - September 17: Introductions, Framing & The Infrastructure of the Internet
+## Week 1 - September 9: Introductions, Framing & The Infrastructure of the Internet
 
 
 An introduction to the terrain + the internet and its modalities. This week, we introduce the fellowship and begin by looking at what do we mean when we say *internet*? What makes it different from other forms of information technology and where can we find it? The internet, the idea and its physical infrastructure, permeates every hour of our days. Understanding its history and the metaphors we use to give shape to it, become a daily endevor, so as to continue to have a critical eye towards it.
@@ -31,12 +16,15 @@ Reflection: As we move from the physical to the digital. What new information is
 
 
 Readings:
-- [‘As We May Think by Vannevar Bush'](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
-- When was this article written? What does the Memex anticipate? What are other concepts still applicable today?
 - [Abbate, Janet. "Government, Business, and the Making of the Internet](https://www.jstor.org/stable/3116559)
+  
+- When was this article written? What does the Memex anticipate? What are other concepts still applicable today?
+
+Optional:
+- [‘As We May Think by Vannevar Bush'](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 
 
-## Week 3 - September 24: Do Artifacts Have Politics? + Github pages + HTML/CSS/MARKDOWN
+## Week 2 - September 16: Do Artifacts Have Politics?
 
 What can things *do*? Considering the perspective of Science and Technology Studies. Are the technologies that we will study neutral? In other words, is the saying: “it depends how you use the tool that matters” universally true or is technology inherently biased?
 
@@ -44,17 +32,21 @@ Readings:
 - [Winner, Langdon. "Do Artifacts Have Politics?" from *The Whale and the Reactor* (1986).](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 - [Biss, Eula. "Time and Distance Overcome" from *Notes from No Man's Land* (2009).](https://pubs.lib.uiowa.edu/iowareview/article/16487/galley/124886/view/)
 
-- Introduction to Github + its history
+- Bring a meaninful artifact for this week
 
-## Week 4 - October 1: Metadata / Data + Collection Builder
+## Week 3 - September 23th: Github + History
 
-Can data be neutral? What are the ethical considerations of collecting and analyzing data? We will also learn [Collection Builder](https://collectionbuilder.github.io/)
+What is github and what is its history? What can you do with it?
+
+## Week 4 - September 30th: Metadata / Data
+
+Can data be neutral? What are the ethical considerations of collecting and analyzing data?
 
 [Why don’t archivists digitize everything?](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/)
 
- - Guest speaker: Emily Higgs Kopin, Head of Digital Collections Strategy
+ <--- Guest speaker: Emily Higgs Kopin, Head of Digital Collections Strategy -->
 
-## Week 5 - October 8: Maps
+## Week 5 - October 7th: Maps
 What are the politics of maps? How does the platform used to create and provide access to geographic information shape our understanding of space? Can you map *nothing*?
 
 - [How to Lie with Maps](https://tripod.swarthmore.edu/permalink/01TRI_INST/1e1odpu/alma991013533059704921) 
@@ -77,28 +69,18 @@ What do you think when you hear the term "raw data"?
 - [D'Ignazio,Catherine & Klein, Lauren. Data Feminism: Chapter 1 The Power Chater](https://doi.org/10.7551/mitpress/11805.001.0001)
 - [Data Feminism reading group](https://datafeminism.io/blog/book/data-feminism-reading-group/) -->
 
-## FALL BREAK October 15
+## FALL BREAK October 14
 
-## Week 6 - October 22 AI and the Textpocalypse
+## Week 6 October 21st: Static Sites in GLAM - Collection Builder 
+
+Minimal Computing, static sites and [Collection Builder](https://collectionbuilder.github.io/)
+
+## Week 7 October 28: AI and the Textpocalypse
 
 [Kirschenbaum, Matthew. Prepare for the Textpocalypse](https://www.theatlantic.com/technology/archive/2023/03/ai-chatgpt-writing-language-models/673318/)
 
+## Week 8 - November 4th: Accessiblity 
 
-## Week 7 - October 29: Language of Visualization + Collection Builder
-
-[![Bertin, Semiology of Graphics. 1983. p. 43.](media/bertin.png)](https://www.historyofinformation.com/detail.php?id=3361)
-
-Can we move beyond pleasing images representing data to and understand that visualizations are a language in themselves? In other words, rather than just understanding visualizations as representations of data can we understand them as data?
-
-In this process, what do we gain access to and, oppositely, what is effaced or made invisible?
-
-- [Hadley Wickham. Tidy Data](https://www.jstatsoft.org/article/view/v059i10)
-- [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2016): 290–302.](https://ebookcentral.proquest.com/lib/swarthmore/reader.action?docID=4093339&ppg=347&c=RVBVQg) 
-<!--[1969 "Mother of All Demos"](https://youtu.be/B6rKUf9DWRI)-->
-<!--[Yau, Nathan. Visualizing the Unertainty in Data](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/)-->
-- Guest speaker: James Truitt, Digital Archivist
-
-## Week 8 - November 5: Accessibility
 Can we democratize knowledge? How can we make information more accessible for everyone?
 
 - [Clark, Jasmine. A coordinated effort: Cultural and policy requirements for digital accessibility](https://www.tandfonline.com/doi/full/10.1080/10691316.2021.1932659)
@@ -107,25 +89,25 @@ Can we democratize knowledge? How can we make information more accessible for ev
 
 <!--- HTML/CSS demo. Static vs Dynaic website -->
 
-- Guest speakers: Jessica Brangiel, Electronic Resources Librarian & Jenn Moore, Course Content Accessibility Manager 
+<!---  Guest speakers: Jessica Brangiel, Electronic Resources Librarian & Jenn Moore, Course Content Accessibility Manager -->
 
-## Week 9 - November 12: Letterpress
+## Week 9 - November 11: Letterpress
 
 - [‘Farewell, Etaoin Shrdlu’](https://www.nytimes.com/video/insider/100000004687429/farewell-etaoin-shrdlu.html)
 
-## Week 10 - November 19: Immersive Technologies
+## Week 10 - November 18: Immersive Technologies
 What role do emerging technologies play in higher education?
 
 [Nakamura, Lisa. Virtous Virtual Realities](https://journals.sagepub.com/doi/full/10.1177/1470412920906259)
 - [DLFteach Toolkit Volume 2: Lesson Plans on Immersive Pedagogy](https://dlfteach.pubpub.org/dlfteach-toolkit-2)
 
 
-## NOVEMBER 26th No Cass
+## NOVEMBER 25th Thanksgiving no class
 
-## Week 11 - December 3: Surveillance and embodiment
+## Week 11 - December 2: Surveillance and embodiment
 Do we live in a survaillance culture? What are the privacy tradeoffs you make to use the tools you like? More importantly, do you know the liniage of survilance?
 
 [Browne, Simone. Dark Matters: On the Surveillance of Blackness. Introduction and Ch. 1](https://tripod.swarthmore.edu/permalink/01TRI_INST/ba5lsr/alma991018837042204921)
 -  [Brunton, Finn  & Nissenbaum, Helen. Obfuscation: A User's Guide for Privacy and Protest. Chapter 3: Why Obfuscation is Necessary](https://tripod.swarthmore.edu/permalink/01TRI_INST/ba5lsr/alma991018845263404921)
 
-## Week 12 - December 10: Celebration + pitches
+## Week 12 - December 9: Celebration + pitches
